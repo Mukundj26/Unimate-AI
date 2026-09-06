@@ -1,0 +1,10 @@
+{
+  "name": "Unimate-Ai: Academic & Career Hub",
+  "description": "Comprehensive NLP platform with RAG assistant, AI tutor, quiz generator, resume & skill analyzer, interview coach, and multilingual voice processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

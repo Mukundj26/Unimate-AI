@@ -1,0 +1,1550 @@
+{
+  "users": [
+    {
+      "id": "user-demo-1",
+      "name": "Alex Rivera",
+      "email": "alex.rivera@edu.nlp",
+      "passwordHash": "27d4663bd0f806202376aef11ca7d9a6c5b6b0802506da340d1d5270dadb286cd4a4a2411f25fd035d0bb97d618b4ccb6a497f25c2b9192b370e42480a2e76f0",
+      "salt": "a8f9c2d4e1b34567",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-05T12:39:19.284Z",
+      "role": "student"
+    },
+    {
+      "id": "user-demo-2",
+      "name": "Sarah Chen",
+      "email": "sarah.chen@edu.nlp",
+      "passwordHash": "27d4663bd0f806202376aef11ca7d9a6c5b6b0802506da340d1d5270dadb286cd4a4a2411f25fd035d0bb97d618b4ccb6a497f25c2b9192b370e42480a2e76f0",
+      "salt": "a8f9c2d4e1b34567",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-05T13:00:00.000Z",
+      "role": "student"
+    },
+    {
+      "id": "user-admin-1",
+      "name": "Dr. Arthur Vance (Admin)",
+      "email": "admin@edu.nlp",
+      "passwordHash": "d4153fc526696a8d0c51166f0f493ec972dfd80b971962e1afd2a02792c92c90c523e82a512612424f33ad297183a91d510db088495f52a0a0657ec7eb909633",
+      "salt": "a8f9c2d4e1b34567",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "role": "admin",
+      "createdAt": "2026-09-06T13:40:18.330Z"
+    },
+    {
+      "id": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "name": "mukund",
+      "email": "mukundjarad@gmail.com",
+      "passwordHash": "2765ce60f903f244895e15c150c491b1638c730e5d12be1de4cab6ac0a9dd3ec1791ea2c67434d22805f3885bd15cb148b0de81fdda4df64790f86424fe0a467",
+      "salt": "44c98acaac3261f6de322f75534a1431",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mukund",
+      "role": "admin",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "user-mukund-admin",
+      "name": "Mukund Jarad",
+      "email": "mukundjarad26@gmail.com",
+      "passwordHash": "2765ce60f903f244895e15c150c491b1638c730e5d12be1de4cab6ac0a9dd3ec1791ea2c67434d22805f3885bd15cb148b0de81fdda4df64790f86424fe0a467",
+      "salt": "44c98acaac3261f6de322f75534a1431",
+      "avatar": "https://api.dicebear.com/7.x/personas/svg?seed=mukund",
+      "role": "admin",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "name": "Test Student",
+      "email": "teststudent2026@edu.nlp",
+      "passwordHash": "c9521a5494c9be61753c19dd37b738c927a2a179d6c43864f957a8b161bf6613b355fbd5aabf095764b9706a537a704881733a57cd487597948d744c3a318e7f",
+      "salt": "4412664a003b7c9c3e6957854991c10c",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Test%20Student",
+      "role": "student",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "admin-70fdc710-eb06-426f-bae8-1c36414aa746",
+      "name": "Prof. Test",
+      "email": "prof.test@edu.nlp",
+      "passwordHash": "9904d805332e52ed65abd68b902ad41aa8c7fc7fba7d0e5f35a1038b3c3ce822a2012252193f3cd03e507b3df2e9c7eaf542834a50cc5208b0f40c1afa046e72",
+      "salt": "96587a86a08b07dc657fb13ed5a6d2e4",
+      "avatar": "https://api.dicebear.com/7.x/personas/svg?seed=Prof.%20Test",
+      "role": "admin",
+      "createdAt": "2026-09-06T14:10:37.822Z"
+    },
+    {
+      "id": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "passwordHash": "f9f73184bd4a00e12e33bb5eeeb84603c1ae6bc3bb178df28f7ac02f592e24214f9cc92c7c1bedeae5b6dc405aca9e20943d1250f440ed3c4838d5d98bb084da",
+      "salt": "b7e9547941b0a1c6fb3fb3c63e340fac",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Ram",
+      "role": "student",
+      "createdAt": "2026-09-06T16:16:51.609Z"
+    }
+  ],
+  "files": [
+    {
+      "id": "file-375c8ba9-5fd9-4d3d-984d-78a60ecba232",
+      "userId": "user-demo-1",
+      "originalName": "Mukund_Resume.pdf",
+      "storedFilename": "1788612416299-145531646.pdf",
+      "folderPath": "/",
+      "size": 102558,
+      "mimeType": "application/pdf",
+      "version": 1,
+      "versions": [],
+      "textContent": "Mukund Machindra Jarad\nPune, Maharashtra, India | +91 9850197160 | mukundjarad8@gmail.com\ngithub.com/Mukundj26 | linkedin.com/in/mukund-jarad-6b5a64325\nSUMMARY\nArtificial Intelligence and Machine Learning undergraduate with a strong interest in software development, AI/ML, and basic\nDevOps. Hands-on experience developing academic projects using Python, C++, Java, HTML, CSS, Git, GitHub, and Firebase.\nStrong foundation in C, Python, databases, and problem solving, with an interest in building practical software and AI-based\nsolutions.\nEDUCATION\nAISSMS College of Engineering Pune, Maharashtra\nB.E. in Artificial Intelligence and Machine Learning 2024 – Present\nCGPA: 9.23 / 10\nMES Abasaheb Garware College Pune, Maharashtra\nHigher Secondary Education 2024\nPercentage: 74.33%\nChhatrapati Vidyalaya Vadgaon Rasai Pune, Maharashtra\nSecondary Education 2022\nPercentage: 92.80%\nTECHNICAL SKILLS\nProgramming: C, C++, Python, Java\nAI/ML: Artificial Intelligence, Machine Learning, NLP Fundamentals, Generative AI Concepts\nWeb Development: HTML, CSS, JavaScript\nDatabases: SQL Fundamentals, Firebase, Database Concepts\nNetworking: Computer Networks Fundamentals, HPC Concepts, Basic HTTP/HTTPS, Basic IP Addressing\nOperating Systems: Linux Fundamentals, File Systems, Command Line\nDevOps & Tools: Git, GitHub, VS Code, Firebase, Cloud Fundamentals\nAI Tools: ChatGPT, Gemini\nCore Concepts: Data Structures and Algorithms, DBMS, Object-Oriented Programming, Software Development Lifecycle\nSoft Skills: Leadership, Team Collaboration, Critical Thinking, Communication, Problem Solving\nPROJECTS\nGramseva Portal Web Development | HTML, CSS, JavaScript, Firebase\n• Developed a digital platform to make common Gram Panchayat services easier and more accessible for citizens.\n• Provides information about government services, local updates, applications, and important announcements through a single\nportal.\n• Designed a simple interface to reduce manual work and improve communication between citizens and local administration.\nLibrary Management System Database Application | Python, SQL\n• Developed a library management system to manage books, student records, and library transactions efficiently.\n• Implemented features for adding, updating, searching, and managing book records and user information.\n• Automated basic issue and return operations to reduce manual record keeping and improve library management.\nAI-Enhanced Education Platform AI/ML | Python, NLP, Firebase\n• Designed an AI-powered learning platform that provides personalized study plans and adaptive quizzes based on student\nneeds.\n• Included AI-powered chatbot and virtual tutor concepts to help students with questions and learning support.\n• Focused on making educational content more interactive, personalized, and accessible.\nLEADERSHIP AND ACHIEVEMENTS\n• Team Leader – Kurukshetra 2.0: Participated in MIT Alandi’s technical event in August 2025 as a Team Leader,\ncoordinating team activities and project execution.\n• Participant – HackFusion 2.0: Participated in the SGGS Nanded hackathon in 2024, gaining experience in collaborative\ntechnical problem solving.\n• Technical Interests: Artificial Intelligence, Machine Learning, NLP, Hackathons, Competitive Programming, Software\nDevelopment.\nRELEVANT COURSEWORK\nData Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Computer Networks, Operating\nSystems, Artificial Intelligence, Machine Learning, Natural Language Processing, Web Development, Cloud Computing\n\n-- 1 of 1 --\n\n",
+      "tags": [
+        "pdf"
+      ],
+      "createdAt": "2026-09-05T12:46:56.323Z",
+      "updatedAt": "2026-09-05T12:46:56.323Z"
+    },
+    {
+      "id": "file-bffe3edc-e8a3-45d1-97c7-1f069de9b75d",
+      "userId": "user-demo-1",
+      "originalName": "technical seminar topics.pdf",
+      "storedFilename": "1788612671216-975772117.pdf",
+      "folderPath": "/",
+      "size": 618920,
+      "mimeType": "application/pdf",
+      "version": 1,
+      "versions": [],
+      "textContent": "Technical Seminar\nName: Mukund Machindra Jarad\nRoll no.– 24AI064\nProblem statement 1: AI- based predictive waste management.\n(Traditional garbage collection follows fixed routes and schedules,\ncausing unnecessary trips, fuel wastage, and garbage-bin overflow. There is\na need for a smart system that can monitor bin levels in real time, predict\nwhen bins will be full, and optimize garbage truck routes using IoT and AI.)\nAbstract:\nAI-Based Predictive Waste Management is a smart city solution designed to\nmake garbage collection more efficient, economical, and environmentally\nfriendly. The project combines IoT sensors, wireless communication,\nArtificial Intelligence, Machine Learning, and smart route planning to\nimprove the traditional waste collection process. In the proposed system,\nultrasonic sensors are installed inside garbage bins to measure the distance\nbetween the sensor and the garbage. From this measurement, the system can\ndetermine the approximate fill level of each bin in real time. The collected\ninformation is then transmitted to a cloud server using battery-friendly\nwireless technologies such as LoRaWAN or 4G. The collected waste-level data\nis analyzed using Machine Learning techniques. The system considers\nprevious waste-filling patterns, festivals, weekends, holidays, weather\nconditions, and the type of location because these factors can affect the\namount of waste generated. Machine Learning models such as LSTM and\nXGBoost can be used to predict when a garbage bin is likely to become full.\nAfter predicting which bins require collection, the system performs dynamic\nroute planning. Instead of sending a garbage truck to every bin, it selects\nonly the bins that need collection and calculates an efficient route. The route\ncan also consider traffic conditions, road closures, and the carrying\ncapacity of the truck, helping the driver complete the collection with less\nunnecessary travel. The main objective of this project is to prevent garbage-\nbin overflow, reduce unnecessary truck trips, save fuel and operating\ncosts, reduce travel distance, and improve cleanliness in cities. The\nsystem replaces fixed and routine garbage collection with a more intelligent,\ndata-driven approach. In the future, the system can be extended with AI-\nbased waste sorting cameras, solar-powered smart bins, and\nautonomous waste-collection vehicles.\n\n-- 1 of 3 --\n\nTechnical Seminar\nProblem statement 2: AI- based fake identity and document screening\nsystem.\n(Traditional identity verification is often slow and may fail to detect\ntampered documents, fake identities, and AI-generated deepfakes. This\ncreates a need for an AI-based system that can quickly verify documents,\nmatch faces, detect spoofing, and identify fraudulent identities.)\nAbstract:\nAI Fake Identity & Document Screening is an AI-based security system\ndesigned to detect fake identities, tampered documents, deepfake faces,\nand other forms of identity fraud. The project uses Computer Vision,\nOptical Character Recognition (OCR), Deep Learning, and biometric\nverification to make the identity verification process faster and more secure.\nThe system first captures the user's identity document, selfie, and live\nvideo. It checks the document using AI-based forensic techniques to identify\nchanges in text, fonts, layouts, image quality, holograms, and other security\nfeatures. OCR is used to extract information from the document and compare\nit with QR codes or machine-readable information to find mismatched details.\nFor face verification, the system uses ArcFace and 3D vision models to\ncompare the user's selfie with the photograph on the identity document. Anti-\nspoofing techniques are used to detect attempts involving screens, printed\nphotos, masks, or deepfake video. Finally, all verification results are\ncombined by a central decision system to provide an instant Pass or Reject\ndecision. The main goal of the project is to reduce identity fraud, improve\nverification speed, and replace error-prone manual checking with an\nautomated AI-based screening process. The system can be useful in areas such\nas digital banking, visa processing, and remote user onboarding.\n\n-- 2 of 3 --\n\nTechnical Seminar\nProblem Statement 3: AI powered Geofencing- intelligence location\nbased services.\n(Traditional geofencing uses fixed boundaries and GPS tracking, which can\ncause false alerts and high battery usage. There is a need for an AI-powered\ngeofencing system that can understand user movement, adjust boundaries\ndynamically, and provide more accurate location-based alerts.)\nAbstract:\nAI-Powered Geofencing is an intelligent location-based system that uses\nArtificial Intelligence, Machine Learning, GPS, Wi-Fi, Bluetooth, and\nmobile sensors to create smart and dynamic virtual boundaries. Unlike\ntraditional geofencing, the proposed system can change the boundary\naccording to real-time conditions such as user speed, traffic, weather, and\nmovement patterns.The system collects location and sensor data from\nmobile or IoT devices. AI analyzes information such as speed, direction,\nstopping time, and previous movement patterns to understand the user's\nactivity and possible intention. Based on this information, the virtual\nboundary can automatically expand or reduce when required.The system also\nreduces false alerts caused by poor GPS signals or temporary boundary\ncrossings. It can provide useful actions such as sending alerts, controlling\ndevices, protecting restricted areas, or starting automated tasks.The\nmain aim of this project is to make geofencing more accurate, intelligent,\nbattery-efficient, and useful in real-world applications such as vehicle\nsafety, industrial safety, smart cities, and autonomous drones.\n\n-- 3 of 3 --\n\n",
+      "tags": [
+        "pdf"
+      ],
+      "createdAt": "2026-09-05T12:51:11.344Z",
+      "updatedAt": "2026-09-05T12:51:11.344Z"
+    }
+  ],
+  "folders": [
+    {
+      "id": "f-1",
+      "userId": "user-demo-1",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-05T12:39:19.284Z"
+    },
+    {
+      "id": "f-2",
+      "userId": "user-demo-1",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-05T12:39:19.284Z"
+    },
+    {
+      "id": "f-3",
+      "userId": "user-demo-1",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-05T12:39:19.284Z"
+    },
+    {
+      "id": "folder-f93e1510-8dcc-432b-9bde-8b09108cd70a",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "folder-743b02dc-7791-4e4f-876c-9f9cffdc63b2",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "folder-82efb460-1eed-4a27-aac0-4df77f0eb32c",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "folder-97bf36de-11d2-4857-aa93-5e729f45bda0",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "folder-a574f44f-10a4-474b-a4a6-8f5822f5fd58",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "folder-1dc9e1ea-6143-4f23-bb88-c56b11d05c5f",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "folder-b1fbd9d3-d596-467e-bc71-9692a3ec24ce",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "folder-9bf60502-f7cc-4705-8525-020f4e114ca4",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "folder-c962a41a-a227-412a-84af-14c83e8764fc",
+      "userId": "user-mukund-admin",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "folder-a5c0fc54-7e12-43e6-ab00-1e1a21012264",
+      "userId": "user-mukund-admin",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "folder-f12b9afb-ceb9-45e6-a6e1-73fb794454bb",
+      "userId": "user-mukund-admin",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "folder-0cf262c1-ada7-478d-8def-c033ffb1f322",
+      "userId": "user-mukund-admin",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "folder-e71f49f2-4317-44a8-9d25-b3fe0fc458e6",
+      "userId": "user-demo-1",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T16:15:51.531Z"
+    },
+    {
+      "id": "folder-a3b545b0-8362-4148-8027-1d55f7b6b3de",
+      "userId": "user-demo-2",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "folder-cdecd880-eb1f-466c-a10d-266f52e33b3a",
+      "userId": "user-demo-2",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "folder-16313928-5022-4b7f-a1be-7898876478b4",
+      "userId": "user-demo-2",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "folder-6fc9c89b-dcfc-4b2a-9cab-6ba5f02ec428",
+      "userId": "user-demo-2",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "folder-733666b2-a5cc-442e-9c01-ff1ada598c1b",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "folder-57bba822-4ebc-4264-9b78-c2754536d672",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "folder-de8093bf-6f83-4c36-948a-adfc69191f0e",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "folder-6e0e88fd-7f42-4d75-b4d3-2306f0e041d7",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    }
+  ],
+  "academicPapers": [
+    {
+      "id": "paper-1",
+      "userId": "user-demo-1",
+      "authorName": "Dr. Elena Rostova",
+      "title": "Attention Mechanisms and Transformer Scaling in Low-Resource NLP",
+      "category": "Natural Language Processing",
+      "abstract": "An empirical exploration into parameter-efficient fine-tuning and cross-lingual transfer learning for under-resourced dialects.",
+      "content": "This research systematically examines LoRA, Prefix-Tuning, and Adapter-based parameter adjustments on 12 distinct low-resource language families...",
+      "tags": [
+        "Transformers",
+        "RAG",
+        "Low-Resource",
+        "Cross-Lingual"
+      ],
+      "upvotes": 24,
+      "upvotedBy": [],
+      "createdAt": "2026-09-03T12:39:19.284Z"
+    },
+    {
+      "id": "paper-2",
+      "userId": "user-demo-1",
+      "authorName": "Marcus Vance & Priya Chen",
+      "title": "Retrieval-Augmented Generation for Technical Documentation Verification",
+      "category": "Information Retrieval",
+      "abstract": "Integrating dense vector embeddings with BM25 hybrid ranking to mitigate hallucination in domain-specific code and technical manual assistants.",
+      "content": "Hallucination remains a paramount bottleneck in deploying LLMs to mission-critical engineering stacks. By pairing reciprocal rank fusion (RRF) with rerankers...",
+      "tags": [
+        "RAG",
+        "Vector Search",
+        "Hallucination Mitigation",
+        "BM25"
+      ],
+      "upvotes": 38,
+      "upvotedBy": [],
+      "createdAt": "2026-08-31T12:39:19.284Z"
+    },
+    {
+      "id": "paper-3",
+      "userId": "user-demo-1",
+      "authorName": "Kaito Tanaka",
+      "title": "Multi-Turn Conversational Alignment via Constitutional AI Frameworks",
+      "category": "AI Ethics & Alignment",
+      "abstract": "Analyzing reinforcement learning from AI feedback (RLAIF) in mitigating adversarial jailbreaks across multi-turn tutor dialogues.",
+      "content": "Automated tutors must balance student encouragement with steadfast alignment boundaries against toxic and unverified STEM solutions...",
+      "tags": [
+        "Alignment",
+        "RLAIF",
+        "Constitutional AI",
+        "AI Tutor"
+      ],
+      "upvotes": 19,
+      "upvotedBy": [],
+      "createdAt": "2026-08-27T12:39:19.284Z"
+    }
+  ],
+  "studyPlans": [
+    {
+      "id": "plan-10d5b3ea-2881-45d8-96ac-183af9eab57e",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "plan-33861285-d1b3-4a6b-bcf0-e2f820490205",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "plan-cea9b58e-f30d-4ff9-b4a4-86fee5d56de2",
+      "userId": "user-mukund-admin",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "plan-fe2eb697-7d97-4667-aadd-646844920193",
+      "userId": "user-demo-1",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T16:15:51.531Z"
+    },
+    {
+      "id": "plan-ed284525-7c2a-4821-9004-7c1f02c26352",
+      "userId": "user-demo-2",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "plan-4b19dc42-5a62-45a3-83ba-b3318a89b975",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-10adc1bb-64ff-4086-a4cf-526ea23b6360",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T14:00:56.871Z"
+        }
+      ],
+      "createdAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "quiz-20d647c6-fea9-46b6-9cd9-55adbf269b60",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T14:10:35.073Z"
+        }
+      ],
+      "createdAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "quiz-da9ff73d-ea7c-4321-aa65-448aa6cd4a39",
+      "userId": "user-mukund-admin",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T16:15:51.137Z"
+        }
+      ],
+      "createdAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "quiz-55feae24-1487-4d98-a180-8853e562503c",
+      "userId": "user-demo-1",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T16:15:51.531Z"
+        }
+      ],
+      "createdAt": "2026-09-06T16:15:51.531Z"
+    },
+    {
+      "id": "quiz-161f72d8-1c81-41d9-b457-528ddeacc33e",
+      "userId": "user-demo-2",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T16:15:51.554Z"
+        }
+      ],
+      "createdAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "quiz-9e7791d4-a316-4397-b1db-4c7ebbd902e7",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-09-06T16:16:51.610Z"
+        }
+      ],
+      "createdAt": "2026-09-06T16:16:51.610Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-1",
+      "userId": "user-demo-1",
+      "title": "Transformer Architecture Foundations",
+      "content": "Key components of the Transformer: Multi-Head Self-Attention, Scaled Dot-Product Attention, Positional Encodings (Sinusoidal & RoPE), Feed-Forward Networks with GELU activations, and Layer Normalization (Pre-LN vs Post-LN). Self-attention calculates queries Q, keys K, and values V with softmax((QK^T)/sqrt(d_k))V.",
+      "summary": "Transformers rely on scaled dot-product self-attention mechanisms and positional encodings to process sequential context in parallel rather than recurrently.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "LayerNorm",
+        "Softmax"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the formula for Scaled Dot-Product Attention?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent the dot products from growing excessively large for large dimensions, which would push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings inject sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-02T12:39:19.284Z",
+      "updatedAt": "2026-09-02T12:39:19.284Z"
+    },
+    {
+      "id": "note-ffb3f465-f8c1-45d0-ae4e-b3a7a9955666",
+      "userId": "user-dd9c9095-6d65-4ee1-81a2-cc601c94416d",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, mukund! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-06T14:00:56.871Z",
+      "updatedAt": "2026-09-06T14:00:56.871Z"
+    },
+    {
+      "id": "note-6234a862-4a6a-4f4f-947b-6a92fa0949d3",
+      "userId": "user-1b98d191-43c0-40c4-9f83-2317c9173469",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, Test Student! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-06T14:10:35.073Z",
+      "updatedAt": "2026-09-06T14:10:35.073Z"
+    },
+    {
+      "id": "note-cdcbf2a5-6266-4658-a8cd-a566e4e7fbdf",
+      "userId": "user-mukund-admin",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, Mukund Jarad! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-06T16:15:51.137Z",
+      "updatedAt": "2026-09-06T16:15:51.137Z"
+    },
+    {
+      "id": "note-ca1c1e34-fdde-4ce8-9c0e-408abc71de50",
+      "userId": "user-demo-2",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, Sarah Chen! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-06T16:15:51.554Z",
+      "updatedAt": "2026-09-06T16:15:51.554Z"
+    },
+    {
+      "id": "note-e57453f6-ba96-4c8e-b0f0-eb3dd4053fec",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, Ram! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-09-06T16:16:51.610Z",
+      "updatedAt": "2026-09-06T16:16:51.610Z"
+    }
+  ],
+  "sharedNotes": [
+    {
+      "id": "SN-abb70c26",
+      "noteId": "note-1",
+      "sharedBy": "user-demo-1",
+      "sharedAt": "2026-09-06T10:45:51.708Z"
+    }
+  ],
+  "events": [
+    {
+      "id": 1788612416412,
+      "type": "file_uploaded",
+      "userId": "user-demo-1",
+      "payload": {
+        "id": "file-375c8ba9-5fd9-4d3d-984d-78a60ecba232",
+        "userId": "user-demo-1",
+        "originalName": "Mukund_Resume.pdf",
+        "storedFilename": "1788612416299-145531646.pdf",
+        "folderPath": "/",
+        "size": 102558,
+        "mimeType": "application/pdf",
+        "version": 1,
+        "versions": [],
+        "textContent": "%PDF-1.7 % 1 0 obj <</Pages 2 0 R /Type/Catalog>> endobj 2 0 obj <</Count 1/Kids[ 4 0 R ]/Type/Pages>> endobj 3 0 obj <</CreationDate(D:20260824210631+00'00')/Creator(PDFium)/Producer(PDFium)>> endobj 4 0 obj <</Contents 31 0 R /CropBox[ 0 0 595.276 841.89001]/MediaBox[ 0 0 595.276 841.89001]/Parent 2 0 R /Resources 9 0 R /Type/Page>> endobj 5 0 obj <</A<</S/URI/Type/Action/URI(mailto:mukundjarad8@gmail.com)>>/Border[ 0 0 0]/C[ 0 1 1]/H/I/Rect[ 342.04999 773.33398 450.29599 784.29303]/Subtype/Link/Type/Annot>> endobj 6 0 obj <</A<</S/URI/Type/Action/URI(https://github.com/Mukundj26)>>/Border[ 0 0 0]/C[ 0 1 1]/H/I/Rect[ 157.617996 760.38202 254.836 771.341]/Subtype/Link/Type/Annot>> endobj 7 0 obj <</A<</S/URI/Type/Action/URI(https://www.linkedin.com/in/mukund-jarad-6b5a64325/)>>/Border[ 0 0 0]/C[ 0 1 1]/H/I/Rect[ 266.66501 760.38202 437.888 771.341]/Subtype/Link/Type/Annot>> endobj 8 0 obj <</Filter/FlateDecode/Length 3229>>stream x ZIs 8 W 3` i Y cw Nj* L pq S HQ d25 { + z8 p G^ [ t we Oh + * Z kQ c {i 5aa@0 & % MW c B EW h%j | A e ? I ?s kx '8 G > P && r-T d Z a 4 & <\"@ R + VO{ < O0\">F h B D V 9s F\"f D -W H w M0 A 7!4 H ~uu [ 9 - > a/ B { ( $ ?B/ B g3o E8 $ B G RGz A + (` z R )Q J#tQ PKYf F 6@Rm u ~ QW 1Z \" D+a 7 `I = M > ? 6k k W ; Fe h$a m_K T>\\o sQ t0 _ B8 a 1$2 mSWf 2k ~ c cx }z-4G ~ \"p / .} t> S T;< w 8g R # C 0 ^!) 2 2 #E c ?PNS V C n j o * T s 9$H wm T [ J Y 2 t $$ b I m cN & {S yo M0 8 og OO .. 8N B my. Gi @O. ? iU r Y `pV.U)e ?L(a m(v8 5 [Wa! &8 xd ` Fv Q | : $; v $ 0 1$ e#a_`i$ pL b 0 C`o fV ' +y D J s N dK 1 j 5 9 >FYU ~ Y e z) I 3 H 8&n 3Y V, / $\"1JX@ O# V hk B M ` ' H Ka 3 V4B a ~ r X| K d8 % C _/./ p!ba ( (s< * : nF @C N > l m O ( ,io.o` B / 9 E 1 t U M g 3>f M5 N 6FS#Xn ; j b . >o % O A0| S K q 7 4 - Zo ` ^ |U 7 1uv I 3 j_o l > > F X I68C g4p z @ >Fk]L QGa } x] (y = 0 !] B [ > ] H F 1 D O iQu !5 <m > Jv + ,,Ugr J 4 FuX8 ElDn .k Z6 U E' U Z; <}y & k]5@zk5 v $ |; T:: Tw2{ EO 3 * 3 K)rY7+ D- z X[ 1 B Mj V&\"g +U i 6 R l{ M_#h b [ ~= . Z _ Z q ( b ? ! V 9G o ntn sZCHF up3b ? H E 6aP Y jA m U Y ^C M 1 o G3b I ( # , [ vW V} }M7 L MR TD MX l + o *g ! hPu- /a s]n l 2 ( :PJ. ~ l O Zo b@ , ; & U]u 4i Sz ~Xjt b % ALR K ( _ v l > c l z Bj C y W M 5 g $ , V S K u0kZ `_ u U ] \" ( R , E! m P)P u ? Y l ` G YU . lt r C g T< G 6e IS , 8 D E X#E - ] l/ 0 } H0; 5 8 N 9 j- vH U t Z ]m P { g S | < q j M/ ` < ur ^ b2+W w { p u @ ~ Uu AH O ( Q z Z F' n 3 ^ b >H vR dr Z Aac i T ( G $ b &H /_ -6 % F Gb pn#_)e 7 wQfE o R 2 QdS q c n{ o \\ ` 2+Yl c; O l m m > n C Db M k .V } y 9 , n# K\"MC |5 i0 dT >F B V s9;9 E 7 A 6 8H ( tW # {>N a 6 0 ~f ~ YI 5 H /G *A B N Q \"^ 5 K 71M n 5v R 0 q 2 N w 8 2 l 'W ,iW jcq U v Ss h d _ 6 n v D 8 s} O + [ cQ Gu E l (sio-W : [ /=l j@ = 8 2 H ia 4 I X - a R LS U S 1 L G )= t B \"n 3 X ; # # s i h B@n _ q Ko7 GQ D 7 0 g .g |L4 . a _ +&q@ __ ] c i ,A 1\" Nc wDv: \" ] = +F D jD Q#: C {; y u FA r q { V Y~ h ( ] ^Wi [u J &V Im$G endstream endobj 9 0 obj <</Font<</F48 10 0 R /F51 16 0 R /F64 21 0 R /F67 26 0 R >>/ProcSet[/PDF/Text]/XObject<<>>>> endobj 10 0 obj <</BaseFont/PXTMWZ+LMRoman12-Bold/Encoding 11 0 R /FirstChar 65/FontDescriptor 12 0 R /LastChar 117/Subtype/Type1/ToUnicode 14 0 R /Type/Font/Widths 15 0 R >> endobj 11 0 obj <</Differences[ 21/endash 28/fi 30/ffi 37/percent/ampersand/quoteright 43/plus/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon 64/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W 89/Y 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 124/bar]/Type/Encoding>> endobj 12 0 obj <</Ascent 684/CapHeight 684/CharSet(/A/C/D/E/H/I/J/K/L/M/N/O/P/R/S/T/U/V/W/Y/a/c/d/h/i/k/n/r/u)/Descent -194/Flags 4/FontBBox[ -476 -289 1577 1137]/FontFile 13 0 R /FontName/PXTMWZ+LMRoman12-Bold/ItalicAngle 0/StemV 109/Type/FontDescriptor/XHeight 444>> endobj 13 0 obj <</Filter/FlateDecode/Length 24442/Length1 2023/Length2 23198/Length3 0>>stream x std = ; m mtl m t A'_ s Q j |4 5 @^ F D - hkm` H#hke ` g !! r01p2 6p2 9 > 0$ 1 O 1 c d ng 7 :: 8~ Ml P| ; 3s S O ? I #K[WGKs 1@ V k i4 M L e u @LQNE^ \" \"F U R T |* | ']FDY@YC^ = .& h 7 j `k 7Z; S63w :X > &V& s Nf& $ is# G ?I ; ?G iw wc p S p 8 +-// 60 q2 1 1 t2prv e | @ \\ W w m m +f` 6 q4wtr O / 2 lhdl? cC W z vzV 3 S \"6 B ]; l G 6 6 k55 16 3ucg;: s{g 4 c f L P ?f ? x{ L M MM>/0 .& ' g o t 7 a` 9} s U] o ; `lb C'k ) p :[Y X @ 7 'D O dsGQs7 cys'# ] S 6 L>W / }d ) C a`c ,mL L>g ? ~ O :yue 5M _A\"6F 6 , w O 0 < > ll H t 6 N ) ;g'o de 1 tB v ? @' o 1 $ A : ' ? @' } > ? dW } + > A * Ov ' ? O g 1 6c ? ' J @ \\ ? - ?g _[ m / `ki fn ` ' s7- i | s G ' 0~ s + s S I W EjKH H \\ 8 y : d< Z \\ 6 p B \" 6 L \"[iqN d u 4 {c } /\" * 2 ~ = ' 3; ; * B ] 3 H ) V n _ W > Qc ( B '%! { 5p S zf I }j Zp efv s V } ^6 C4s -e j` 2% \\Q >L 4 w# ! 8 G ] K.TWw E ZO ? G A oHPw B ^ A B U G q \" VhV K 5 X , 4x o A Q ~, x $ qL # } W x m4 c*- l! C |C R ? sQ }2 8 q0 @ 3 6 y s R gQ ' F a \" vQs W M A [; 8 b SSO4 #` G \" T ^ @I , ,: Ha\"u<{\\ ` D! 1z mH_ ) i mJL* Xmn &j( w | l h x\"4 &() P t m Z j y 7 c D )f| ? % 1U H @hS KI n -C , lq Ya h I1 !+ S ;7 2 ` C N ! n 3 l, LK w J O u Kd 1 gr @CSx < Z [l 5 Rh m = \\6 {X (e o / : D d v < R $ < } + \"e Ah ^i ~ 3 a*g f J g LpNUO > | @xT o Av '!yd ; eCk A O Z ue y # % C# : 05: yr 2 'he _8 9t ^ H q 5 ^ ; w _ ^ 95# . | o2 yF e Q V H % v b @R B 66 RW D L r w { 1A zw_*p * H !O * )} xvHS q lM vP v 3 W : C : hgA x 7{x aXh*H b 0I )7 + c} % j e F (2\\? h kP Ri % ex )m F 3 @ ) - k 5I) H { p :? c 3' _ E/j>UD } bk ~+ E > ! ) l I^ c[ p KyO1 O 4r w p PU \"m= o S , > ( u Y V $ \"# L LL:LZ %1 or G _ 7 w Y 9< ) __O: - / EN $W B{ e q 5 SG F ~u ^ 4 W . lx-k ;i0 +M J nw V m j > k 7p &\" :36k B 3R,H k &l [ R^ v V L C E tJ b \\ ~# wP d 77 oGV \"b. n{ E kJ S ~ :& @ 0 rU l x&7 pL B 2 ! s K | | - b 7 y p vO\\ QQD [ : bzk Xr d K % 4& SQKh e4 s s (1Oju B zx+je a. s T Ch<ZV j >2U = h$ W/= Q 7O>r . 1 M q \\ } - CM)wD \" r/l1 9 m 8 ~ @ _2 6 J:UW %8/$ m h E:g t Fe [ %K 7 Q ] s] ' @+ : n Si X{\\ j v D 5 % 0jw $ 3 ne ppR _U # F{ ~ X 3 P S5 7 r 0 U| ; , { ~ x J] = Z , { p Y 71 * v e 3 ^ e q * o7 c A* 5 h N 5 # y ' Y qB r bs B8% { C ; P B k M uY V 4 Ce \\ I hFh?k } _ s* YY\\ qe* , B s \" 1 [ ] v e6 ]q j U $J n ]/@ .I= l pr | D v1 Y Zo *x2 N v [ } n s \\ vl P p ( Zgb ` < _ {i u ] | t {a QE X! < ] u@ Z e >= UcaHyV + T . .L(^ 4 x NV Z ~ { rJf ]5+L =' = 6O7 \\.Q K 28\" k x t P <ONs E 7 r ( d g @ ~ ' ]) ( 5 T 7 =,i P A 8? .. 2 HB . 3z> h !`| v ' ' /slC k K ^ -_f g Q bk > v[ S,~d l 4 < Sy# x g n e4-M' TY u w ~uC> J1X X }h . a ZJH :8 < 7 } / f 7 G8 ' ) d 9q E d &div ~W % | B o<A[ r~s z 1/ :+ a C, W dP #* ; f unvx 1y ) s`H Z58f< bLJ Q 2 =1 9 < Up G' f B .m cC l u J(w Www tLp ^ W wM^ W7 5 + :_ ! A `1 { V 3 3 = I^ ak N \"im | S dGG- q Vy J i F + \\ d n 4I B x Q <s Z 5 GI @ O 7o R * $c W p sW% ] H N : u n o T8 v\" l W 'q 0p5 %)b n Og7 c H J4 3f )b [ g b j 6 *;p55C AW d [ m Er y C? + I }o x + ]6 | WW Uy g L : d } t s g R ; 8 + 8 Ww S2 ~x 3 Y f q )mRG x | x y h ? ;g ! 0U-t D < a t{: \"p }~\\[~ X e _ ?lA A \"I 8 5 ]zPxxXP ) m = s 5^s& i] ' M l: > q08 !# $\" u \" ' C&k) J 6 Hbh = \"-d3 3x Z' ` G[ = ) F ? B.a`1 |' 9E %D\\ [ q/Y e ) M [ 5 & D #9~ p$T Up i} 2{ } \\ t 4 P6 D Z % Ypg7, > A 0M B8' ^ Z B4/ x L K pQ u> 9O { ] l {5 u . z y] E @ K E L T 6 e3V [- <5 u Y Z; C # o O _ p X [ qv _ Q 8T = \\ v P \\C ' > h < BH G S | > 5^+ 4J:baT (; 9 g & |& u 6 > 8 , % ; q e c~? # <r (L N R Q r' I l N O r u;5 <r x& o -; ,Y t \\y 0E /( } U 4 X O? $ t kN6 [ y a j 6 U o \" t\\ EQ #Q 0 \\ u ~ S :! ~ V K 6b 1 e1 v66` xjM } 8o \\Ne _ P 4 E <I & K~ %< i,[ /E ] 7+ 6 Z &H =x v ! \" cIcB [ * 4 < .% 2V ( N< o r +0 $ X Nv 2 iQ 6 T - (_ TD9 :: *q y r O |`6]g ] t { % $f ^$ ] 7 xF G R 0 &6Q Q `M A e q n YZ V N p [ @e r \"R : $o |) ' s m Z $. X <VV } jS _ q &}C y ~ y } 9 A 4 T { P 6 U- { ' BB< } &q W ) A ; PL( U r , @ # s& H [ L E )c 4F%g l v ) L ` V jd6 b = Pj | I sf 8 . |XpbD /B ~ )* { 3 ; [ [N c rZ } q . 7 A ' :: 5 3 _ cf _ /`F / C5 ] yG k ,Z9 N! N Q %u X A M D d 6/ S r ! % > o ~ @ O d: D >zN * A } { \" Dw lfT p @ K+u Hy p~G ` i JA j AyP _M M y + [ U /wN H OGs F B Gd C 4 - 9 e V N t ^ fR C 9 q 4 U!;cA~ A 2 :$ R j4@$r` G % uB s5 8 v ! A 4W s BI /Z i % 2 |\" < t g 3 o u F f5 (= 8/ K:Z -q{ w0 ( % hC) u qM | < }> &8 Bq i D A #] -> 7 I V g , X #}K 6m C gQ %@& X%e n ) u ) 4.# % X h 3 3Q s6 woe> =(~; ` z % t k V zg 'X e ( [ \\ =0 d L o U bu Y P N _+' S ' | q a Bu ] [ ( -, ~ @ V )# ?WY ] s{ o 4J +> +}q .41A oH>* 6 z S n bH\\w @ 9 ~ a w3 R 2YQ : dep P.1! | P F + 6 ~, ; K [ rn3~, <s29 ` J S p ' $ t M j 1 nY uU*c s ~ h F) w$ E B6V ~< %x lV c < m ~, K ) 8)N W J i j >+ G Cq /[ jX ^ 9 Wa vY FX k& z %z( C @ *M f ^Db O Z 3 p| ? KJ k 3. y j \\) _|v Xg ;& 2 u P6 7 X o @c| [ 4 5 pT ] ' ; i T m A !) fX M Z ' b 2 K sN v % {L WO y|t ? c__ 7 - / . {\"F S n G L q t 2 A5 k4 Ot eU c S G : D UZ t W e F i4 c} 6h H W ? _ :xX r rA ' Na Se 0 XcWU l R i \\ F C G Z0 ] k @ h q [yd =F h < rDA=XR 1 c, kf8m * > X? sC } 1 8 . 87 +7B O 2 9 q- \" # N l n9 \\ Z r O z,U W =r= 7Y +XL qX} 8 @? # / p W 4 +c 0 } 6_Z x hQ8A7`P gS ( r x ` N `_ ;#~ H T4 >/ = r) vX $@ ( : H Ua2 EoJ yk6u L&` I ` ' fP? E~ Y^ X2( nw \" < 8y i b m =) s OL 8 $ | ( ; d hfdZP 3~ Yd c ~ C P V H I :Ix_ J? 6 `G mC c V g N Q#% & W : i ;y $p k M :L y bC !W 6 }b } | I v z ~ : } F = nA R\\ wN3(n . p] T\" MS XUe f9X G ;3 j{&de [ p K q =v s IR l6*W 2 v h ;g }X eW7 TM I BrL 6A n ~: Z o M i } uj DZ 'N V Mb U la #2XWB I WM c =/ ,Mk9 + , . R @ F D)] U9 QF H ? Z I/ 6 bi GTR K$ ) @ o M 0 1 \" b 7 Ps Wh 5uj . ) Vd 0 E # J # t e$ mUW pAN a I e47 W sW ^ dN2[ 3 2 o p y {a 8 r 6 2 z V | K N V Du ' 1vY +x < f D l D0z H a/]V _ R> b Y s + n AbO c +~ 2 / kj% H >@E j>3X b Z J 6 m , h{ 7 YA J8 b h K m r y )! Y 9 1)b ` I 0H / hr' ~ D N d iy&( ps*[ V u P g\\6 < B my? *M?KtA ! j* B[@?[ \" ! _ T 1 jXf 8 / < ' Tp TA F4 a{ | - X z d o{`z Z f Sg @8&2 ; L -D D 0 SY AN V 6 6E @ RFm} 5.i 2 ` ezw )O fw t9G V FMo } a &G l \"%. (T < U `- Ga\" g ].Y @ n Y k z8 H |pr ; w p^ @ , :2 { 3e [ a t \\= , u w F 8d iN< 3z # x_9 ) o x H~ d u )k = v r ;! K P ]_ pP~* B6|F \\_f _ C_ X T |] } H p#w ZK/ _K. G Zx1- s R v3 k {7 %t t | r 9o e ]v 2 C0 5 - c & m -00 ,]# 0R|L8) [jT !0 K L K j ES Q $ -= 0 ) ?l X* w- j ~ / g M h % 9 @N d Zw \"Y % LrL \" d` Z c \\ <,' c [ Y }$ k O =a G ; >P| U ; H6 6 m@ ) x 3v \\ - NQ IV 7 r @ x zA RBdM% 3c< H1 3!PG } H St s: $ e y \\z l\\ )0 z8; * Vk ( F@ S yX J M> M e C ; t b - : f +/T w w z J#;L Wk- MO ( M ( ` 0 m_\\y4 ; _. & B 3 ' 4\" 1 O D k j Xo \" ? 1 ~ RU <X :1 6 \\ 9 5~m 6 e d [ e + :` +< $ E0 l9?9! I X 4z iv [ T A X# <0E wL =X G - K }^ l L (e zy 9 /% Jt 4b . X TjYEpG c1 5 BSo h J! ( VQ] K J w ^ j j H`b = +e L X@ 6 S ,[ fs e R ! r \\C & G K qlc &L6B v /SI$ o v, : 7 `chx X -/ 8 Jp T ^cO F;0 <~. jr c % 5R W ! `>=t{ o ZQJ \\8 4cs k ! h # HV } <NC*`D o > ! J \\ } * T] ]% Y C ts . W V 7 :1Us/K % / 4 .M8~ 9K # W\\ > \"q 1a[ X M 4R@= ~ { Sl& 3i 5i 7 N9 f1TB j r ? ' ]8 m w H 5 r -4 3 & & H AJ 6 }q= YOfF9 ] e )AF \\ O A [ ~ y 8 t 6GE <6 _ ` u &u 0 . M |~ 9 $S .i4i JT y S O< (a6 V ^? s y G c [ 7IMA l .G< .z.8 9. R76?Bc !$ 0t ( = 5N o $ N: u97V uw X B g C ` z e 3 e : V , L O r&\"A (Z t. ; 'U 7. 2 w Pn , A ] H I $ @ 6^ .q? 8 | A B~Db 9 Z i , A q # ` k z = { Qjs f ?Ca Hk w ; : v )b c3Zn g- o x * m CI 1 1 # ( oAI : p o9 L F A +P S & e cJkJ` h Em ? 'e x X B - rak 3^ X q , N|! T ;z $ > T: %6c ;| ? )pm [ & s1WF o e99 Q\" T 6_- pC F QYaexW ]XY8 n:K = Z2 ' &y B # E =? g /^ 0 l Yz T i fe8 F, 8 R S * cK q ` P < 9!B q> _ D Q .2+}%0 m k [q XJ I J J - nE1! 2 { 1Q u x) ([d) H x 5C R &A M: ] Q + ^N b }WM 5J ) V > ~ |#' R 5 \\J =o j f : B b 6 r u bu5 FP . E V= 0 # 7 Q xG 6Wx ` x e c2 ?r R 5dASR '\" 8 B\" Q v T , _ 6U n |' {24 . N Y4 hb7 [q 1 ]j 1_ 3{@5d TG VI( fX WW4 ~ y aW q 3 3 ; V a ] i 9 r ? R =K MUo )}V [ 7 a m }S 0 ) o l 5vV $DM ! .y Q tY# tc D _ eN n EnX u zrH!>L+b Vs #[ y c > Qt t Y > g 8 JI%gg o1( I[b s@eS ( \" 7 # 4 J T0 5^ P O) S T l T d a , 7 $ q N ] y ) ' z w !M e, . T ( % P \\ ' i {b[- 8 >)*CJ t 6g |DwN-: 6 6 X!R*qi A umi M < V U p r\\ 6 ^ 72<r l Y 0` <K Mx gq 2p n%\\m ^ } D |4 < mu H A w 3 ' *= :%d 0 UU ' = 3 A <> 6 Q 3 Y w ; `P !_ Q9 % j V % 4 +(L H qBF9} 6 } /K6 ej z 4l LRT + G2 d\\ gd _ \\z i C7 heA2 -(f zX + {T A |M @ e S i ( ['H0 5 , M ,J*@a Gd -x 4 uE# # < W $| c P ' 7%f e * F [ k =$ Ou = ] b z E e Y W J J< A h \"o# W GM d _ +; $L u -S Xm @ '^F352o q 6 4 u 0) & a N +PSTZ[F w Pzsh ]@HL B tI k{o : >a -c * x >e/ k T e [ ]/ 'DH \\3 ' % I 1g1 + m t j } B %\" 0 P 2 A J )s 5 = 6 }?s 2 e v U ( . 7 @ u hqc 9 _ p b ] S ] % | |RR V5 M V ' C 1M E Wn r l9 { [ #pq :9 J n V Y YH({ BPs ]9 t ? H r}e+ D &F @ N A B:> 8r_4A _ h ; < . ( , Xk J )s 6w Qb 2 < + - Xu { % kmT~.D I=X 2T c O ; X @ 4D - Y O / N }; Q7 c, ~pK % X 6y= J H* 8mW x 8 } j nd V A a I E /#A 7 ( u > GZ. + G ? 6 *s gN t - 8 ` E^ b Q s Q = TPX K& U\\ k, ; ; , 0l b! v mk , F>m . i4/ /y < U U 3m >+ I &k > # 6 qo `f u C 4 4c< X & D { ;Gx 1 + ^E 7OKp P ) wt,i [LJ K4 jO {j p7 jh= f2 Ma L B [X a@ { 0}W ~9 d W% > ?2 Z{ n ~ ;d2 E c} a C ~9b 4 . 9 8 m gr A< # . c* . aX %)t 8 N_ ` &sf]J p +h N S @, B E'e m T3 N|[ ~6 CN( 2R q N BQ 1_ t y IH d V <8 tq L @ x cH v jh V t MD}# : x: L H C\"D u G| E !%= yqZY O j 6 X k i w ] z . NV u )d 1 IqC . ng [L tl> s DN X 5` ; Y Gq h G E } K= 1 fFA W :B < D $S k iL R X P }~ { ZwY 3 * T @ H)|j a n M -<* + @ |AE ! a 8 c >(1 0I PL b ] g j7 ==>c ? g& < . . * rh sbV~ ^U > j[ G \\Rl }b C ; , /e b $~ a 2 ' `9 // A e <+ $ n6 =' ^ 4 G ) N s ` ` tp = 9 RP J a H S sr L 2 G B t g n n 6Fm\" uI]w 2 N/ X;_ >P 2 o I O t sN 34rC w7 y J U% j w *8sL ,; - 9 S tT i ~Y $t z O8 $V )%od TvN _ C R< $ g c 7 2 ^ !@ X ZO Se ! j R { - = \" [ ; R k 7 m i |VX , 0 e O V ' \" 2&OIO =6 s uv tp d5 a LpC.FP p YRzQ f vR4 + [ A ( r q ib y [ u}d t# # # U T 1 <\" B _ % _\\q & `; YS }x &D4 } 7 \" e ( F r5 4, K K{ r7 f 9r 3 P \"% Q \\ + # # Y U o y | ) VJ #K C 8f c zA| : ze i F Z* q %g u 6 . 5 ^C > _ 'AL X V t % Z R 9 Xs v 2 fa Y ~ R [ UT Q C n k 1EV ~ ,! U $# H ' n Ix_ 7g/[ bT T GAg s!a J ; b J ,k ; 2Y { ; T ;}$C +T* Cf F ^ NH @, $ $ ~ 2 6 w #:&: 5 r4 4 5 ' _ S > Zi\\& k Yv :2 ] ! d ,s v 8 P -E s S qJ p 6 7 hZ t L ! GP 9 I He ~ b0 > d v \\ 2 Y 8l M V7_ \" G 8 Id J w? Bph G B A|V x > T : s% Q '-P Z w k J h c T K2v C [a f z >QuB R Y ]I +pX s Mo twE \\Ip -. c mO W <X ]WU b _ { J |fp a 7 / vp # s t &*C 7b FG Q w L)$ 4 cM 2O [ A v I ]o e H ::@ J E uOo\\L& o - ? L \",k }N yT l 0r> + T z F Ew) hnV ,. * B Yl a ' < |$$ ?d^v B 1.t ( Sd~ w ^qw, ! 0w e w .l X b /D 3 &[Y j^ \\ 6f R ~*= x N , iS z a @ , nbg (V: *_c<q& Q ^J T I ` PW s[/v 4 ? @ ; o Y w : D % [3j u ^ , ' +B QE l U x b `tw q N A& $ \\ J # ~ | J # j i; 0/ 9h : P v 7 F .oEc o U ~ ' R [mC Z?: C m [ Vdw V 9 \\ C 0 cG , F T 2 P {+ /vO yB^ N(PH UB G L] + -B d : + DQ4 _@ @ N$ 2`0 o2b ; S' h Wm G8f E ^ G < d ~ 2 [ 8 ~ z {7 }Q| K 2C %X B h NZ5[ u TG j 9\\ ;a b ^ ~ q Z $ t V a& v @| a Z = {g = ; gbE.8 a d 7z ! H+8 \" pY 1| - , 8 }U D 5z2 G ^ | .Ql. Ol Rj y m5 {x- { ' * ^< v 2 eN 8] : r G d* _S1 9 c :v *\\ YD a :7 8edN i3 ` gd ! X $ : !i ?s TQ Z> o I O|@ ; v12f o&vj %*J / Z$ { Y K\\ @ 3 D C = -O^4 D 3m [ \" f -}uf 3U E2 * 8 XD M < @ Q 2 d] ] = Y [N - Q 8 e>R 6 g s 3 g v v?i > ` L p < Ok4 G e C Abt 7@V I6 ~8@ J / = mc U / S UUV & S {D - 4 u l e @ 1 0!H^= _^ .v v J T( r MY ny] \\ j - ] j& c x^ I ; k Z 0;V v H x # B ! 3 b A {?* ! n t< Z O o t p6 ( W 14X A WB$ K $ % ' - q`/8 X RZ\\o ] )R _ )i Dk n Pv s ] 4\" SN R 9 X t c j 0 @ V g #t 1 1 ` { O & N =} j @Q O # } 3\" a3kq b _ F M W \\@g<.tB {K2l T J ~E5 B Y 6 C l{ 9 h 8 (C | L o {; 0 H5q g B v- . eh sXc z w z = %_ -W(~ ia |I[ X BW 9k$pR* { Bo 3oX : QD f t ( } v / G h*xm m Ol9<9 *{) p6Q R , d k(\\8d \" bG K c M{ O {s X V %K7 w\\ \\)y`Bx-1 . X~u+ u F %9 % Q^u y H{ N_ Ad I. U* U U T/ l@ 9 2 j p_[ R F e V = ( ,[ = k o 1E# : {B . $B S \"q H z 9c N {>Z] $ s e ) O z(W R { 7 \\ ( # j{ $_} Q /Js p@20 R~ w % } cc Q \\N %Y 6 (PK y b\\.. b < Q( Mt + s 3 } V Ht k=_ |i E o `sd P p 9 q?: hp - _ LF @H x Tn A F f 2 ~ i\"= 2~ - $ _} @ U|N 4 = K wTH ( ! MH *D ^J\\ tO X< ( o? R1 C L +U'B 8S@ Y! dl v u BD ( z a F 0 Mm F E= n$ <B P 0' M n ` O )x e 9 6W (u Bky 3&>m6S~rew * o ' ' N] p n ?K - B D J :Y kc z T U P Q ~ & ' s a_ { - ,/s Kb f W .IG PP v = ` tB p E a!$} h. s)* 7 k O ] DhAL o u 5 W / ' t8 u C \" ` _ o - . # O o ` J c Zb^ T* U$ `E Tn p. KF4 i eI % < zR N ( { b zbX c Q a ' n!# Oz { m A e I @ Z ? l <12D l al~& ) 6nVz VT d I o ` w+ R 9 7pV M ^ @ ) -< gl% | ; 2 . U : J p {E U b 6I < J im 3 L u F X 0>b N -DOB i X T L B3 9 ! [A; u 2O y [H% >~t. =MQ | 0VR 5>} [i x lo 9N = 2 G; 0 Bnk+ p ^ + ' E Z l )=b# 9+ O ,z s ! & L 5 V x 9Rd + m[] b{ e ( zaX , *:RG 8 ( 5 - ArN |R- ! L A V \\ h 3 ^x F v m g` =j| Ly;9 K F ' 0 |Dw 93 P ~c p? . _* 8 ' }F4 n( O ,y rN 4G] + L r_ \\J C / c U ]K # L x Q# C . y<,: [ i fG^< Wx {V mD T lEy > ' y N` lj L7 /U - 5Yb p \" %i 7 > am [',]& C$R @ aI # h 6 ^u B C Ul Z m h }s l cKu 6/ W O \\ pe + MVvE M/ k M e N. Yg ? 0uB j wc N er ( { uYe O~ , ? S9 u{ O 1 $ n c 2 g>9 8 #N b d= j [` 0aNj O' 2B }/% |K5 S ! % M E R= K m !Y ;R % )z U L y%] =9 C) S \"C. 9J m (DBupbf K /Io OFm96 @ 3'l- h Lc:8 ) 0Y;( E r Ao 5 20 ? ^ p : c b : ! uV 2o > 4 m y 8 > u S 5 i 4Q tCZo ~L h l ?6 _ e ?[ = k q 6 m N 4B f !$G o q 0d n( s ` d5y [~ f, z TGL/ ] 3 A7 X 3 Mv J A $Y 'I7( b Ng k 8 a!% + 3; z f7 Q ?J Z g Z ^ G 8 k 7 d I z U F2Ka( by w cl{ 4 ] ! Y e Vk ke ! %9D A5 (h F pm Nn za u +i~ u $ z Y( = N]x57 | : V ] , [ f s z0 ~ _ [ q | 9Z Z 3 , , J O +g `X8 BX] O \"# V lA 3 W>~ k b : Q Z *%RD; 3 Q $ =j: :3 E c !G ` S x) UK v= P TO|?+ 1 W f Yk A \\n \" \" a R Bz $q b$w 2 : L Y 4 _* + v < Y& D)T D W s V * W ^ KzC T0 = 8 s F GS P+ T gZJ o th 5 X=N{ 6 ) z \" zn A ` r Y (i iq - Z ] 5 ? < q# L s K _ r ^ Mj W w ^n( 9K > O n >v F` 4 @ Z M N G{ 9 o/6 &V 0R( z UP \" 1 On % T ts < B{* ^ \\ 3 : uw*6& M h _A h Q ; 0 >Xe / z \" J (b66}? m p _ o lR I 0W - \" Y z B . r | & M u 6' j\\ ` . jdE EJ A z }qB](< *G u' y O ^ L + x 8 KZ P d zR S<| O u#NJ ( \\ z @ a, f gc~ h Q \" ym 8 L T@ V L |\" k Pz< 9 5 M \\ I2i; X Sgkr \\P v v; L 1g ~nr ( % N0 dpN } m | m PF aeJ sv71 L R? ( 80TMH > b- N3 ) } ~^ g E1 qo A ~ ^~, t z^ - WY l z pZC I < ? ErS5 0XiX \\? rGh3 R & ?= I [ s k 3 / e q j ' N XW B @ `a VPt [{N J D 1 m *jW aM S -Z xO ZN 4 Q U =w Vu. Hn 4 3 c J) /; C. 1 k dN=o _V SPb L ` r @ds uL Y w U H h OSw nb C ^ .) UO C g r h i - ( % s& u2h + .I C O 2nU r 4U O S' +FJE qp _q O T(8 ~ p tN \\ I f O I w c(X h St fe 6 B B {\\2@ ! #/ } }U,@ -4 z r 5 b Aa9F -/v B< ,fW -YRT ] I b n m R m 7 $ ( Q93 } x (7 c p w C 9whr z Ro 6,v ] % . j R < \"Be 0 ix ; 3 eIWY3 n / 6z 9 wF\"J z b Z fs4bbU t!1z b H h Q6 BI &: 4 V } p O E 8 r $ q n v u G k a]+| y u H \\sj 1|1 f3 g 1 g . ? 5 _ N9y k v 1 wce [ t- V Z DX J > iL wQ F qjY U .? 8D A + f f o XN h3 F Z x : D+T< ^ 8BZ ;h h /^ eo eg q ' e u~ s < F } et JZ I C$ r;' ~,\\ Q 5o < \\ < / 9\" } A 5b * M G ] &jjuF} 3 _ {a` zC T :|( f v 80/ NZ # Z ` 0 F _ 5 M* k eP| \\^ \"d 3 :o E 'Z N = c@ U/ ] 0 . EP P : , t Myf J' va& G Vt8 _^ u q z T # ) + A pR= ?l/TUu,d Qvz ? * S1 $ t^ y v m ' S.4 yP! < %IXM +O M. # m` n J p ' tn > {n K * & , s9T s v V W C \" s ~ & X{7\" f W endstream endobj 14 0 obj <</Filter/FlateDecode/Length 859>>stream x mUMo 0 Wx N W H v[ j WHL @ U It ; q T}s= A= } v u[ U y k I { w n_ k& Y_ OQEi? p 2 Zk Xvm 9 5 ]; $ 7 os y v | ~ | H ]0} Z7 Wu I [_O B n Kz ~l NM n vr* aeM i a ` B z 4g\"N F su B `n lB = @ )U 9 y I ( J 5< T`, M % 5 R h R 1 gc yq( b uX& & q, 1 + N97 8N sk` q8 ^ 8% FM q. 5 S hzA k O p $ q 1 7]} p ^` D3F? x [ a 1 e c f !/ 1 g)c d ?4d K^ | QV1 ' 1t ? 9 Y? rY s ' g )4 3 ; YgD 3 \\ i b -z 3z s ,> G| ZV| 3 3 3q g n g 3tZ [ Y o g , g [ 3 = L 3z/ g d ,g z) R O5 [ T T V * M2G ZN(: pT jy 0 : q ; ~E m O1z ' X endstream endobj 15 0 obj [ 849.5 799.79999 812.5 862.29999 738.40002 707.20001 884.29999 879.59998 419 581 880.79999 675.90002 1067.19995 879.59998 844.90002 768.5 844.90002 839.20001 625 782.40002 864.59998 849.5 1162 849.5 849.5 687.5 312.5 575 312.5 555.59998 849.5 312.5 546.90002 625 500 625 513.29999 343.70001 562.5 625 312.5 343.70001 593.79999 312.5 937.5 625 562.5 625 593.79999 459.5 443.70001 437.5 625] endobj 16 0 obj <</BaseFont/JDHAPZ+LMRoman9-Regular/Encoding 11 0 R /FirstChar 21/FontDescriptor 17 0 R /LastChar 124/Subtype/Type1/ToUnicode 19 0 R /Type/Font/Widths 20 0 R >> endobj 17 0 obj <</Ascent 0/CapHeight 0/CharSet(/A/B/C/D/E/F/G/H/I/J/L/M/N/O/P/Q/S/T/V/W/a/at/b/bar/bullet/c/comma/d/e/eight/endash/f/ffi/fi/five/four/g/h/hyphen/i/j/k/l/m/n/nine/o/one/p/period/plus/q/quoteright/r/s/seven/six/slash/t/three/two/u/v/w/x/y/z/zero)/Descent 0/Flags 4/FontBBox[ -443 -292 1454 1128]/FontF",
+        "tags": [
+          "pdf"
+        ],
+        "createdAt": "2026-09-05T12:46:56.323Z",
+        "updatedAt": "2026-09-05T12:46:56.323Z"
+      },
+      "timestamp": "2026-09-05T12:46:56.324Z"
+    },
+    {
+      "id": 1788612672193,
+      "type": "file_uploaded",
+      "userId": "user-demo-1",
+      "payload": {
+        "id": "file-bffe3edc-e8a3-45d1-97c7-1f069de9b75d",
+        "userId": "user-demo-1",
+        "originalName": "technical seminar topics.pdf",
+        "storedFilename": "1788612671216-975772117.pdf",
+        "folderPath": "/",
+        "size": 618920,
+        "mimeType": "application/pdf",
+        "version": 1,
+        "versions": [],
+        "textContent": "%PDF-1.5 % 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en-US) /StructTreeRoot 28 0 R/MarkInfo<</Marked true>>>> endobj 2 0 obj <</Type/Pages/Count 3/Kids[ 3 0 R 19 0 R 21 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 8 0 R/F3 10 0 R/F4 12 0 R/F5 17 0 R>>/ExtGState<</GS7 7 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4426>> stream x [mo 6 } \" RQ Rt E b d _ 3CR e Z p8 3C e } / * ts { U7 MS G E % o ( X y r i &y m ?t } F o> Q /_ + Ap \"aSi? ~^$ ? O<b*)2O]\\ w Y dI | j B V \" gK #@+R = q -X A( E?~ > n> } ( ,LD 4 4O2 y '-Q= *d H G M R'i ,-fL? (Y w Y x T $Qy\" L d m L l q (} Z & r ;\" l 1 =0 } m : \"K l6 &G . H m S | Q F w DLI Tr s .4L {S k r f k F fH al c 0 c J b / /y G s h = cn t G 5(7 k Wo u F H yf ) xN:y tf S oQ u ]0~~ K&R O_ e b^ I^ 9& A D H <&g S d\" KOr WS. B2r w g9 \\ {j .|} ? % \\ $ } & W+ + x o0 <U z|SE h ) YC Js k m I 2Q K R R y8 h i4 3 [ P Xvo W { 1F < a { z P { /aw( 5 b (d n W G> u K x E _ U 4g 2 Z 5 * X ,|I 6 A f2 pP' q 8`2 ` x Z / * C 6 C + e C Fx(; 4 |@UX .` w !\\- 0b z )K : c) 0 #e e P0 7 W q Q L h7Z |1 ^ :n*2 | Y v m K Qm # GTi 1 5 ' ef$RJ5 -F qVB a E = a ' ~ K {U Io A , 1^ 2h h 4 2 + g e ] S E Q z ` A #\\ Y a x EF U lNz h F b ; r 0 y 8* C> ? AR &$ q \\s < A ` XWB B Gz | D E U1 3 4 4 * R 4 <8 sz O . - Z lC Q ES q U3 @X1 ' z 1 | > ff 9 \\l E ^?4 t F A \"F M & 5 t )} E / c A : * 5M ED9 h A8* _\" ++ q 6. A {y= ! ] Q f Kb ` ( F-[ 2& @ K $ T _ [ ) 5 9' F f_ U7dy#QKm M rH fa a SO *s1 r [ 1 U x h H 3, <V N R.EHm D pe Z p K$ b3 ~ 1`= 7 zK G \\\\ | % b w y *` U b % [ -T C +v I 2 z; o1 ng1 J ,\\j_ ` @ mh6M o G B [ It W` D s Cm4 9 B ,<Z rp Q ^ $U>-% D 3 4 Qj oe $c~ L 3> [ z Ta ^_ ~& ~ M l 4 J ) + @4$ % m Qj *5ig 2 7% %N(m k - P ( 0 n7 O aR n d D sw r5 ^* c y- w | Dk * / 9Dd @b x Wg Z ;[X s ,aj 5F 9F 4 bb4 ' f2 tq M P + + 8A(R k?uK peg%W@ ` v @ $ m %T 9 S - N U '# x {: I !=7- y >L a , G m2 M d p Xy m aH Q |Y L R 2 ? F 2 o < C Ah 5 y ZG | 6 Fi2 ! + \\ _ ! m 6I3 H GMp + R@ 0 r 6 f p L w f fU ;< * /\\ 5 TH | Y q2 a J } }d \" i 5h j wC ag ] c_ ~ Mq T i^ ( W PU 1 A Y-l 7 \\ +KV6,C|n Q < 1 * \\ 5V`KJ j 1 i3$ h eI b K '- 0 t >U G\\g b[ : C l ?] @A FG In * ; < ? a < o ^ R , b G ^ 9 O9 p z \" ,X { }[HeL T _ \\ E \"h D pd! RF ^P 6 7 K|? * * z r UD 3:s M u [ <W4 Af ; 0 w 9f Q nu b 5 a' #Z ~ BQ [ 7( 1S r \"V/ b [^ R m s jA 2 ! 7 -n Dt}U BWH2 aT fZ `v 2) Z zr: qu R u ( _ $ T ' 7 D \"0 u 4 y, n d18 ? tRU ; u u \" N a zW 9 V Xy W ` k V ;* U I K A ?U q ` ) , M1lB 2 f< \\ k c { p N \\ f Y ] r LM } = |Q {s_ N a\\ :Y bE 9 gG5S : ^ U,G \\d ^ k 8 0 LZi x\"(_ W ! H WC q Ott# '; | j / p D/ `m aH % { t +x D CU 7 P !`U 7 OQ ]Z( , N :- +O Y Ld \\ eTG IO b} ! > W \" PkB 4]=< ( -* `M Z r\\ ` ` * e] aH U -q B P L D] e'Zi [5] B r + p w Q( -wu bL _ Z0 : E 1@M o l* qC a r W A ] )M ^ . tf zE ^ :V k \\ p]c+p !OD: w g? t` ` ^ z K{ ; . ~> ?a + V_ s N) ( ks x j S e V0 K ; o B x Zs y C i t , 4 t $$ H vG ya[h C A _ f ( Wt5 M MD I?H s R D P GkR ^ 1 M w M b e rZ ' G{t L' Gi\"s : g e> u M DX Z < [ ] q 1q+ z\" F ? rK endstream endobj 5 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/ABCDEE+Calibri/Encoding/WinAnsiEncoding/FontDescriptor 6 0 R/FirstChar 32/LastChar 32/Widths 55 0 R>> endobj 6 0 obj <</Type/FontDescriptor/FontName/ABCDEE+Calibri/Flags 32/ItalicAngle 0/Ascent 750/Descent -250/CapHeight 750/AvgWidth 521/MaxWidth 1743/FontWeight 400/XHeight 250/StemV 52/FontBBox[ -503 -250 1240 750] /FontFile2 56 0 R>> endobj 7 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 8 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/ABCDEE+Calibri,Bold/Encoding/WinAnsiEncoding/FontDescriptor 9 0 R/FirstChar 32/LastChar 114/Widths 57 0 R>> endobj 9 0 obj <</Type/FontDescriptor/FontName/ABCDEE+Calibri,Bold/Flags 32/ItalicAngle 0/Ascent 750/Descent -250/CapHeight 750/AvgWidth 536/MaxWidth 1781/FontWeight 700/XHeight 250/StemV 53/FontBBox[ -519 -250 1263 750] /FontFile2 58 0 R>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F3/BaseFont/ABCDEE+Cambria,Bold/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 62 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/ABCDEE+Cambria,Bold/Flags 32/ItalicAngle 0/Ascent 950/Descent -222/CapHeight 778/AvgWidth 600/MaxWidth 2482/FontWeight 700/XHeight 250/StemV 60/FontBBox[ -1110 -222 1373 778] /FontFile2 60 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/ABCDEE+Cambria,Bold/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 59 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/ABCDEE+Cambria,Bold/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 61 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/ABCDEE+Cambria,Bold/Flags 32/ItalicAngle 0/Ascent 950/Descent -222/CapHeight 778/AvgWidth 600/MaxWidth 2482/FontWeight 700/XHeight 250/StemV 60/FontBBox[ -1110 -222 1373 778] /FontFile2 60 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F5/BaseFont/ABCDEE+Cambria/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 122/Widths 63 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/ABCDEE+Cambria/Flags 32/ItalicAngle 0/Ascent 950/Descent -222/CapHeight 778/AvgWidth 615/MaxWidth 4342/FontWeight 400/XHeight 250/StemV 61/FontBBox[ -1475 -222 2868 778] /FontFile2 64 0 R>> endobj 19 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 8 0 R/F3 10 0 R/F5 17 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 20 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 1>> endobj 20 0 obj <</Filter/FlateDecode/Length 3469>> stream x Zmo 6 } \" ^ @ pE m ^ 3$e - n,j8 g y zY o ?W ~ > l | G I | N 1 ' LF L , < 0 f wV o 4 =x w? I) \" }! ~N _ T** / 2 Q } j> U L ; = cc; E g[ u V Y gY %#8 N l } w aq?} C [ ! gH 4H < 3: H%Ip [ c S \" 8 }> '{| <& <N <m L ;V , Q , l m M W & l% 0 >[y bB ) 7 Lt > H 7 Ip GB A O C b 5N ' !. > c T 7 1 V I , T D U3 h rv+ v <@ k jG Z UE wkkp+z ;L G ,V ; 8 | <! J W X c EE [ rc! > 0 e se i S C] _ p ed+gS 3 5 g C Q 0 A J23 # H $| B L + X 9. l L y 0 %/ CFX d cx : X'% k, l , ,T; -MAK WBK o[r= u U 9 > 2 [rn e H I'-t yw S u [ x0 TG > W hG + w / / Z $ wgkE'} 50 L E YQ$ e 2 g + U Z < 1 H iv\" 3 o& W h \" 3g S H(_ _ [ N } ! *L 1 I5kV ib a |5 gVN'w pl S A r + /& ==s* , X~ 7 U p T } l e=oqr u7 f I + 6 $ > o I& ^ M y |Q : RgM O \\- W p?RpI ] O ` H Q c | 4 @I q% H <, '2 # R <( O ? R Bx @ 5e& uN< (G ) Ye N V PSd 1 Jb r O X h 1 Y x 6 AmC E 6 8 ] Y v 3 _d d jZ r N @ M< \"A y;c o]q |c R M\\8X< d 0 K D 1 8 8 \" o ;) a\" qt {8 % b: K.S W 7 @ > ? ,s > ]v d + w Jz:C ( i H ? c ? A 3 3 (uN _+ >< r3r ): _ o y K] 4L o3 \"e d v s v ! | Jo 2 !` h V ; y$ <w /2 as v F J' `' hM rcu x5 / R S} Q 8 Vk [xvg - \" } f, 15 $ KDT8 jA?( H ] 4M = X T= s} R \\_ 9 ( j 0H4 7 } r] y ! p fS H F k gG ` 1 < ? Z s>3 q <v # n 4 /\" s TFgS O # }i Fc f 0 4(qwk nOf j ^ @ N A b x = p ? n X zS Qf ? @ * Po U / ) ~0t=C|;;Q Ds %_ / a v g D > =0 !i*O EO ;#M i. \" + h C @0 3= ) 9Fk * : I D t 0K0'^r_ ) B UJ WCt R Q & u Y x e IC< k3v h 2 vO( G{ ( K Y2pd zm Sz^ ^ o ]7P 6 .f o \\ o AC vb# s k\" ~ G 9 X i_ Y+ a q 4 ^ 6* e c % 6\\ kC 4 ) z Wws q }R.M' h ( \\ B y>Og @ ` ~ u T y g d1z;a Z y g ~ , GT 4 =u ! S L k =m et k` D }f E e Nwn }:(S S 1- K {PDkp {G .]& m / M ' V%H } ' p!kz 1U& * aQ. h *G Aq i 7 rMP ; .> H / p m < nL;$ o & Xz D b ] 6 qi \\ S Y$ ' m Q o 5 Aw3 7 w #' w {'; 8. N? & } > G ' > b ^ 5\\ 0s0 di | 4 +b \\ 3 / zbC S c \\? gB ` } rs S >[G B k| vJ G 0X u X \\?# wyD - o 6h /S g H: [ o g Z* s ja{z< UHx`e 7 ET- 2 ? # K x T h l - Zd c z8 v R py K ]4 5im Bh g6 ( > a 2 /8Q (x Q > F%O z L @u` . 'h [Z l m l='e <s[= + %M M' ] P * m OlZ_ / M % `o m P 3 x m w { 8q_| e\\ Q n 8WQ r3 R __ \" P 3 M 0 6 T~ R ti e c< E 0 [_ a _ Y e@yYn qW ) O h + I ! f s6 # g4` Y M} QCp G DpL O v endstream endobj 21 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 8 0 R/F3 10 0 R/F6 23 0 R/F7 25 0 R/F5 17 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 22 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 22 0 obj <</Filter/FlateDecode/Length 3182>> stream x ZY F ~7 @ ' Q,QZ d o} 5 @jV u| m }, > u ~u8 ~ z9 ) ? Vo , ! X oD ? d2 2 Gy o } ) v {zu } \"-\"1V < M H \" $ + Uj O[W ; >-T m ks 8 T6 = A{ / @%: ? C D 1h)b\\ *Jt < 3: H :h o ~ S B g F (>? . v ~ SYF * zO ] + C $L e~\"~W LdLaP L T_b\" HN kL L ( |& \\c ^b\"e 0' D Fc& K Y 5 % 9 XW t q V f 4 k T G D 5&\" % T Mi M lQ[z$ n : jk + 0 i5d 1E.S \" < G\" ! *= CD E c sE ! qw s R I y > U. SP} S SL R 4 P p gt x 5 -> 8 p K v #;, fDy i7Z} .=0 mo k L 2 Y lR W \"3; d R~P=Y qP{ : j ) 3 A Ay m 9d UP / uG 2 8 3< <D6 Z ? < 3v & B n.Y~9D P 9 3U e7w2 c#H r 5 S> k +L ^> Qh ; . $- U F4' * g3 b }!P== i WCU p, A r !]e* 1 0 t L} \\ ' $+ { N */ %]?< 0 W l 5 M cHd' Q i B >j q r. wVeS e \\ Ux 7 } Z Hlj AI= N V c <8xZ g TG fE > CI^ \\ qh ( K M T 3 m1KL 3 ~ a ] Q @ N _ T \\ + jo 7 sx+ ( 4J p n < Niq i W L{ h4 H @ Q * R 6I 'evr Y]Mh9%:h P; N 6W N e B f0 **Q fj z a6 2 l ] >- T ] - k RO K \\Kl { P 8 3 *\\ 2 9r :>p I k: : H vF z gF \" ' c 6 ,^T 6 . N S 6(3 i > m O Jin 45# %V zY 8 ,l - OL r> z moZ 2H ' A d` }k \" e6 ~ 6i T f ` Z 5vt l Dv N k { zX 4 - [ B * U3X *gD Y cq b x / /d7 V AO`j 9 @ U s :c}YUH Nm D ! U +{ L ` h q ` ! 3 n MF 1!9 1 y ^ C%5 z o P# (o v ! # I ] D j & X gjK .mBB es q*;W g 3 Y] > ` [ 44 /a 8 G B } A)@ . HP D C < # 9 g6 oI % + x [ 0. Z r vv 6< Rle d # s Rv jto R g m e v t U M 1 [ . m8_w1 %F ! xd & ,77 { | 0d [ z ; oF2 6 G\\^` p o C s P S R w} jd m 6 14D { L C } /h3irN M : - [ z@ s P % + _':| I8 b ! ! l 5% 4!xV Lt q & J XD u2 [;}/O - [ c $3 y}2w !| B x [ | hl j1 2 riX fw _ 5 HS ` 8 N;u ? )u8 = qw x a h^ ]g v # H:' Q ^U <D9 -d P ^@z !; :\\uZ Lhjz 6; Z I[ y J ? 7 4 vv jm_ E vvz QVN< ~k u .Mw; f z V 2 7Q j M %h M & \" \" -mjFB o y 8 O X E d sU A > U JP -0* p R^s$ M r @| P f yz } I u _ P X #{ )p & 5 : ]' B > k s Rtc ;yh i ;n_ 4 S o h >i :d^ n e 7W 1 O Y* ? 6 N * 1Q .^k s R @} t~gpK i E ? & _ = 5 + K J (m , , - X Y _XD 2n ^ X WM ,b q: z( m P { e@ U p EF x c dt h 11~ q B Q f. ? w I \" AV W @ 7 ; ,g 0P 3 n} UCp6 #q*8& ' R endstream endobj 23 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/Times#20New#20Roman,Bold/Encoding/WinAnsiEncoding/FontDescriptor 24 0 R/FirstChar 32/LastChar 121/Widths 65 0 R>> endobj 24 0 obj <</Type/FontDescriptor/FontName/Times#20New#20Roman,Bold/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] >> endobj 25 0 obj <</Type/Font/Subtype/TrueType/Name/F7/BaseFont/Times#20New#20Roman/Encoding/WinAnsiEncoding/FontDescriptor 26 0 R/FirstChar 32/LastChar 121/Widths 66 0 R>> endobj 26 0 obj <</Type/FontDescriptor/FontName/Times#20New#20Roman/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] >> endobj 27 0 obj <</Author(HP) /Creator( M i c r o s o f t W o r d 2 0 1 0) /CreationDate(D:20260902165827+05'30') /ModDate(D:20260902165827+05'30') /Producer( M i c r o s o f t W o r d 2 0 1 0) >> endobj 34 0 obj <</Type/ObjStm/N 26/First 187/Filter/FlateDecode/Length 555>> stream x j 0 Ja d) !) a M ib w r >x ! < d < 2 4 i g 4H (4R %AY J ! %3 [ - = 0 @ <C# +1 piP 7 ( A;k=h { l % U] 6 ! / ; ds}}y ` [ ,8 1A U` H=! 3 x/d' r ,o 1Y ah&z)=% ) /: { \" B}q \" [ 'Qf < q p P^ } I Y M % e# d * k D u u c 2 - !< /4? # 4IICE < d } lN r w O f oC | }N [ e w f 3V O1> 9 1 F NG o ) C u C vU~dw T J LMn 1 Z 2 [g # m ^ 3 'T endstream endobj 55 0 obj [ 226] endobj 56 0 obj <</Filter/FlateDecode/Length 175850/Length1 537988>> stream x } | U 9 7-S23! L2If IB` $ zg0 & 4@ PD ( EE b e- Zp]WW @ s w v 6 3 s S S G q X >t | h g Y1 |FA {_a ?Q1jB M 6 3obL ? r t /e ) 1 t3 0 G} 5 1 { xjM x c' > [ F c dL @c U 0 l +ZX x s,l> r c j xJ 7# p ;3 # kF 3 0 / = & > q7/ }3c ^ 3 i g y B oqCk gl[ + g. ] p o 3 G +Z h M _ ( i 21 [:~ } , g >v jK 4 02 3 1o m i-u ; 1 f k L L L d 0 S zEQt z e 6q B <K}0^ y } D1R K< < ;~ > _1] M Y 0]! U t L v_ -n ) p O h?H 8S t -n e g.f -nq [ -nq k 3 -nq [ -nq [ w 6z -nq [ -nq [ -nq [ -nq [ -nq [ -nq K nq M !# ?I # b: ec= DV m % g ~ _ y 8_ a O7 8 f i + n + R L y hW S[ Mg X e ' iacC = *<c S&O 8a cFWV * q aCK .* 7/7'; Nv: 6 9 d4 u Y @e / [ @- 5 \\ j b cK P !* :R ;| / \\y gM R E kz u Z wS / k| UM 5 h b. 5 t \\ J^ l 5 >2ejUE | Lk+b( | D ` j @} Z J jE{ 3 ( ^ Cn WD 46~ > < LH1 # | b|~ ! H *J O F <\"s\\a &s T RU W5 #m | }1 w 5 6 i fTEB X+: |m HL HA % E 5X4 J I. X HAE :( L u Q Y G$ [ ^U x ? }U $T T5T U 8\" Z q ea1rc W x j Zp * 5 , +:j { , J uL;H 9ecD * d? %O O [[ 8 ] C } :xL X c ~*b.b F X 12K OA3 K aS|U @u {(4 J M O U vl 8&E 0? eB) z j Z Hr q cev@ 9b+{: & e VG& _ 3 o Y 3j pV+ W ^ # jo i s [ ^5 u~Z z Z $6 1 M)lTG = # > j 1 3 W jFUwd# j U W8E ' iH ]! \\ u i> qV A SG9!YZ |mT:/V q d LLp B ! bS0 g7 &p m 6 i N Z + v b h # aeh_ D Q M Cx T [W ^S- K ^ 7 Q # c 5b 4 X T K o ~#v>O Xl t k 81U I_gW * s ~ 9 HB /7} 8 -P H[] W u 8 A I@ P R # * a 4 7BG[u :( Z Z; 1 R \\ @- s6 J@ * x i V . 8 0{ m ` 2 c # 1G c k x #bA r Me f YcE_ ] E L d k :E r F - ee X { k # b : n f ' Ae ;\" }M {m d h L # 9 : V 7_ xU u( s Qr p Qq| jQ ] , i v 0 -f{d # J \\ s C { $O ;S + k 9 C C <Z t X` c C V Z +k + 66m 'E i c !1 H _M WS> 4 } j ` g , R . 8 M 1 X f_ Q ;6 h h |. XA n j Q 6; 5OE g nm.1q } G] b& I v x{ r f U% H>m k=Ha T5 9 {i V iU ) v X ( fU 8 v G E U U=r < ;$v m {h s ~ 'X1 *O V o 5 W / _ ~ A , t GT=p g' % , Y + V R@ ! & O9sg n )N M z) Iq k 8E 5R b + h b h b K X,E 'Kq h b R4HQ/E F R b s - ,) D)fJ b & T) H1Y IRL b ' X) H1Z J)* ( L QR \"$E # 8A R b %R K1D R IQ( ) J1@ R H O |) J R H -E@ R I \"K L)2 H .E n)R H %E = H ) C R Ja ,E &) R K B B K b wIqX CR G) H K ) [) R|- WR|) R|. ~)> S) $ 'R|, H ?H ) I I H ;) -) )^ 5)^ )^ %)^ ) b I H )) ) b 1) ) !) ) b >) )vJ C RD [ S ; . R Z U [ Y 7Jq ^ V R\\# R\\% R\\! R\\& R\\\" R\\$ R\\ Rl <) ] s 8[ Rl ,) k . =\\^{ py k . =\\^{ py k _. py . ?\\ py . ?\\ py . ?\\ py . ?\\ py m .o;\\ v py m S93 5 ;s4 : R G (u h R N%ZKtJ4s$hM4 h J k \\ j!ZJ ,&j&:9 Q : h Q B hF9 R DuD j j zs)5 h6 , j * f f M' F4 h d ID & ' % & z * r 2 Q 7 J S aDC z Q1 DE X! je X Q? O (H 7Q Q/j: ( & D> % \" $ G ' T r ( Iy \";9 lDV ( Dd$2D JN R i kE !J $ @ B Q 7Q t ) 5 WD_R h? g ) D $ R R h | wDo EE D GSO M z r L D/P 9 g !z )r>I D{ ~C% D =Ly =H ' M J G { ! I # R FSf : \"Dw Et' D n ^ _S+ Jy Lt n$ h u D[) \" *\\A .# . V.& .$ | -D Q s) Nt D 6E] 3 6F] 3 N u m ZO Q S F] S D V S eD-QW h)5 J.&j&: $ ET h! 7 S : D D5D R A AUD'Rwg D F C ) d d 'E 7 &F A x q d XJ ! M h PE4y3 < | , M $ & O 4 hh ) F Qq 9 4$ :g ( hP 4 J : G l DAj Qoj, Q.QN )f) (@m 6 Z eQ L \" Q:QZ 1 : R \" Q2Q $ r lDV*i fr& D * :r D 'b . a{ { G | ; [ | g >J\\ Cb C > o o o o N n } - 2 y`/ Y b 3 OC ) I 'm O z o c @ |> < <h] } { u w ^ D @ { e z v [ [ - nD ,'{ Z`+ 5h j u + K K Q \" w y d - o x T y p[ m [ s z O] } CI O : [ B V& l] ~ o_ W + V:V V l m # u \" _ Jph r rYxi e E M u 5 s ) }V *|\" , o ^<5<m I I O, }|x\\ c + < pd 2T y } D< x ${ 7] mO e .HS J o = R H W R ) % 2qF zS v . T q H5 N V r Ktz lFp| M 1M gGr Y 5 I $ _* gm 2G dN e i : t E V \\ ; t ; ]v%dG DE|t% C* 6 M ]65%d G u J kQ %d)- Y W 8w q 1oEkP F H Z h X t | & . LV l N z` p* 8 X V + V` h K @3p2p h @ P Z s , N f a` 0 L I D` 0 J ( Q H # 0`(P C @ P @ A z @ ^ 2 n H \\@2 H $ & = O P 0V C A G = ; [ W ~ 3 S O ' ? > ^ ^ ^ ^ ^ ^ ^ ^ O v N > ^ `' @ p#p \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ l s & ,V? s q 9 ? 8 s q 9 ? 8 s @ 1 # p 8b G 1 # p 8b G 1 # p 8b G 1 # p 8b 8 s } q 9 > 8 g s _: [ / pc+Vt s 3^ K ) $ k .a * ~ \" Q [ ? '0 ) c] 'v \\ T q _ 8 iHbf My ? C] E k H+ Z T6 fs \\V j1 z afNf l1[ o!> R / >Zj)k V W XJ - + j| a T } < VK 6 2 34% < , fv6; gS Q \\v |v O - . E b K e rv% 5l q +4 :v= 5%r `O { ] nv 6 u 5 9/ ` a o F 3 X GQr#JR+ # e z y |l 63 h) ] x > u#4 5 M f L [ oe l ; uTwW w ; e; N > . o w # ]l7 ; ! \" c {8 ( `O\"B= a H > B { mP/ O y % 7 y+ 3 Og. ] cX# X < hI ef , N ; ]_0= %D9 Y & +\"g `6 RR P~ = rS ! @ 8/ u }E - sl' Yj y w -8 } s| YR0h + m 5 jQ \" Yu b F A4 ? ; N l <h JQan g 3B i tp : A ( 9H nO J ;) x c 2 M ! z o J L2 2S\\ N ' X k R 0lNi z ,wZ a 3 = :K 3 dLrZ md \\ ; 51 !G s? ; > { m ;, g(+{ jv a (h6 \" u= JC e jq yS > JaI % A > ? 9 qD9KN( 4 9h@ X h#X OT # B zYJ* dB AS 7- Z\\ d rx47% &_ lw _ , vO k j V n FUg4 DW ' 9x zKV 4KB L Ob^6 ~ X JHp X A / n mak z fda j[T , 3W 1 )v zpl S[~L N G7 G / qSu_ { Ff g> a y |@ o o : o@ I w; { ;yW( ,RN >? f g69 Mr9 b K*)q ,) C _\\ f0 ? - o0 su < U 1 M2 } X :> j u:| i 9G O ;T < ' ) v n | b!V/fd 3+ Ag a N =# h | \"R q + 0 iK %}% 5 NI 8v D< RSSSR n ]fu = ' 5g Y4a '? 6 ?s 0b D } O>2 3s+ , Y1 a } L;|WZ V s t xJD$( %\"& F/ z_ X ) 1 E b { +-% < > ; nG D L0N 7 F . [ ( l *c q }E ( :c j n5:3 E } N 7 ^7 d -e K g i VO 9qc ]Q X 6 +l C O `] 9 [ 6i cq \" ; > N }( z qbsB q v o KL /{0_ is tS # #f m[ ! dJ v / 0%Q 5$e d: 9# d V )Y Sr C EL N L % b 8 ]5 1 Z e \"6K J4! ~^ M 9 i j^$e k ) zh R \" ) i C x m (k v % K L 3 F e z c ) Zm: &/ ^ br07 t 3 O WX , D<nV / =, U ' = Z\\+ W{ Q z 4 o ` Wi u EEg ,v 4 @ '7 # b q KNw Qo [ y o tbl K5 L T ps w w y C f9b s< ;{ { 9!- [7 8 ~ Q o2 Nnr 2< )1!- W bWYM nk Uo : ? , | w w k=, r R | kq A 1t G n e n T /3 = ) ) H\\(T|(]V Y } Wff^ > 6*W Wv UO h h s Y 3 GjR nH5' S I 7 n c} c L<K7[7 };K +`CX) & | ?= f d k _ WS ]o 3 : u Z ' O o] l | U n 0 % 5/i b k * M6 / 2 BD < i ! I $ @ T FDE yV G Z H) H RK O) Z 3gf [ {f 3gfv eB R t y3 f r yL{ 10 f]; J Ab5 . [ S/O Yc >1 RU i =jJ 4 T p x 'M T r ) 7'O 4Ynf I + <$ iRi $ E ?` ,g P O < md 13 v S> } * N 1s U Eiqi f 6 5 tX | Wg F5 | w # Pj > $ l K2 ; R b m; k l \\S o S 3l wRBrfrJ )I ; & G j ^3 ed Mx s I z qF 4T zN 6 9)-'9 dMM Y\" ` b { b m A ' O2 Y#/ d X $} _\" N > x ?az X OG2 R,} SC, R, R, R,]Tz- b) b) b) b S ~ K K K K K K K K K K K K )H'b) & 2 7 Q } R ( B V cy \"o N 7F n<\" qQ fXj H a i ' j^% y |\" 3?* V ` P F =;)>s K` * y > 7 ~ dL` M 0 \" ) c\"o * ) BF H O2 D^ +Q 1 K3 D y Q2 < U < < < kE P a L ! ! e g w X I9x1 e B Qz) % smX h F+, rl z b 4Q ~3,8 : s1L ! ( B eU 6 p \\' _hh< e! | T @ R YA;F _ T ^ n RI7J j* wR C u<T Gv N $ . Y E \" * hN= Kd Q *i4 gh 5 |< C s Y cm-G sa xm NA / a) j z < c ~ -HcT -B !l ! X@ Gz v d %] +o3D D~ % a )< i ~ ` 8 u x/| }b\\~ m I k =\"f eT f h F Xj ZXNv 4 Of $o yn`h4\\ ! B W Q Z:4K 4 D 'j \" . 4W j Y '<' e J F {z t ' ^n yv ~ f g n 7 2 5q 8Ze s # faL,^M \\d[V , ) >7 : , R Vy ^ i N 8 : 4vn H=6 i e C l \\@xEt ]}\"> V w r H , g,,jp U >4 |Wp M b [8 ~ < _P < z H= ? Y x u 6z} ] s f ' # zM 6 > ~Z E{ # x ~ |T< M ' c [x;L K > O p :UtR ; D - 9aD B ] 9_ ~% 7 :Qxh : Y %\" & 6? 6 ;] n y3 b>O E B;\\ + k Z9 o n >1 4 }\" ~. c W q = qF< > b B ; G z X Nq { N ! M - } g{| \\Q7 p &\"} V n k{ V ; lx D 9, \" ; C t uF \\ 6 -v %| ' * Y Z_ x F | ; - Cv y t qGi \"d} e J8 1 . Ad 4 :u h 2 >q X M { <3 } G Ut r= B5=m n L%uX b m ' *, - X \\ x / W * -V P Z I6S s i c5* d. , EA _ w : 'rM[ \\ V : 1 Z 7 Y#4-' Y Q=q t. & k i \\ C > c & X Eb \\ g x W ixT d Z f ~ H Ps u v F YE#m! U 7<*>S 4 fUf * v _ J \\#q|6* k bO \\6 8 'O & r q r # h 6Z W X# b z9 2 Z ZR<i : C Z AG ^ fw \\ v % 1 . z r wX ;<N , *k x : k f 7 :|N f, R j q: e w n n T nuN] Z q }! t5 v 6 v ^^ !g ` >\\ U: P ]mwty O S u n5 ~= T E . s >w0T v # t G c P r ] Y no &} ] J aj ~ - { N4 8 a S V 1 / yGa 0V .R 0 . o ) z3 A % 1 ]jw u -v`I a? h) C }1 qv: ;X : C~5- 4 S L > t ] l 4 C b CE q x E i ' PQW f V ^ w m gL % NG C pg @ A a n r ]( 3C8qj B | D 7R N ; 4 ; o H Px \\ p!s X t qvFi z|No7 ~ z 8 x , i W : {( 8 CF: ? 5 ,0 ` $ V . T Y8 > 0 l L h- q } : y ,>% ~ Z j # }C \"2 / }E= = ( ;&2n\"J~^ 8 X3 ^ z& 3 ? [ & )5 2) MN M Z h W . 3 1 g 6 v>f ] ( B P 8 : ;x< x 2 X -\"R 6 4rQ4 pN9 8 1 # S 7k+ w* a! vF d @7 ( I n f 7 ' Cn U /x / aiR u 1 e 2nj J ,q; ct~ 4 6\\ ? G N 5+ 5 > Fg < 2 [o jKcM j Emjn WWU] -oA~l : qn a z}]CU Z EmlV 4 UcY]Ce z Dl Qe [Xcs +k - k]X 6 6k r rn}y 4 f j 9 6` Z= * 7 ~ M mUk 5+ ] * U s Z J3 VS W *[ 0* Z - Q6 U _ R] 7 0 47b X z fjU3#( - TU c[- r pQR c ` , 7 G | b > }< x@ c h?\" X' 1A c t 5 8c \\/ % P0 g @2 _ 4 i . _U V e OJ\" ON& .V>% ] |j* +o <R` X0 < k ) ) c W D O @ ([ 3X : UQ Y(; eKP g d E f x X E a \\ -D kQb6 d d Qv\" ~ % |! x) K 7I e , W $ ) } o eK| b } b S IJ \"M 8 ^ $% &x ` # ZL 8 o4 k F , H 4 N (Y (Y . V )1Nb 9 K Hc Dj-1IJL 2n] Z6 o _ o5K _ jV fZ Q Y% m jfMZ r8 p 3 o } 5)^J 5 % N <tx d9)np 8))~ { gG { u |Q |y V | j P 0 tc \\ ; K & , K s`M 5 i (- Ei XS 9 P {0 t0C.L q 6 ~ ? { H& NC p} p .x 6 W -xG 8! + V k < ^ , I",
+        "tags": [
+          "pdf"
+        ],
+        "createdAt": "2026-09-05T12:51:11.344Z",
+        "updatedAt": "2026-09-05T12:51:11.344Z"
+      },
+      "timestamp": "2026-09-05T12:51:11.345Z"
+    },
+    {
+      "id": 1788691492962,
+      "type": "note_unshared",
+      "userId": "user-demo-1",
+      "payload": {
+        "noteId": "note-1"
+      },
+      "timestamp": "2026-09-06T10:44:52.293Z"
+    },
+    {
+      "id": 1788691499496,
+      "type": "note_shared",
+      "userId": "user-demo-1",
+      "payload": {
+        "shareId": "SN-14ddfe7a",
+        "noteId": "note-1",
+        "title": "Transformer Architecture Foundations"
+      },
+      "timestamp": "2026-09-06T10:44:58.765Z"
+    },
+    {
+      "id": 1788691504124,
+      "type": "note_unshared",
+      "userId": "user-demo-1",
+      "payload": {
+        "noteId": "note-1"
+      },
+      "timestamp": "2026-09-06T10:45:03.289Z"
+    },
+    {
+      "id": 1788691512025,
+      "type": "note_shared",
+      "userId": "user-demo-1",
+      "payload": {
+        "shareId": "SN-9b5962a4",
+        "noteId": "note-1",
+        "title": "Transformer Architecture Foundations"
+      },
+      "timestamp": "2026-09-06T10:45:11.911Z"
+    },
+    {
+      "id": 1788691514626,
+      "type": "note_unshared",
+      "userId": "user-demo-1",
+      "payload": {
+        "noteId": "note-1"
+      },
+      "timestamp": "2026-09-06T10:45:14.309Z"
+    },
+    {
+      "id": 1788691523107,
+      "type": "note_shared",
+      "userId": "user-demo-1",
+      "payload": {
+        "shareId": "SN-0a978ce4",
+        "noteId": "note-1",
+        "title": "Transformer Architecture Foundations"
+      },
+      "timestamp": "2026-09-06T10:45:22.112Z"
+    },
+    {
+      "id": 1788691524737,
+      "type": "note_unshared",
+      "userId": "user-demo-1",
+      "payload": {
+        "noteId": "note-1"
+      },
+      "timestamp": "2026-09-06T10:45:24.518Z"
+    },
+    {
+      "id": 1788691552603,
+      "type": "note_shared",
+      "userId": "user-demo-1",
+      "payload": {
+        "shareId": "SN-abb70c26",
+        "noteId": "note-1",
+        "title": "Transformer Architecture Foundations"
+      },
+      "timestamp": "2026-09-06T10:45:51.709Z"
+    }
+  ]
+}

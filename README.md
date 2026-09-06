@@ -35,7 +35,7 @@
 
 ## 🚀 Core Capabilities & Modules
 
-Unimate-Ai delivers 11 tightly integrated modules designed around natural language processing, semantic indexing, and cognitive learning workflows:
+Unimate-Ai delivers 13 tightly integrated modules designed around natural language processing, semantic indexing, and cognitive learning workflows:
 
 ### 1. 🗄️ Document Storage & Version Control
 - **Format Ingestion**: Uploads and processes PDF research papers, course slides, plain-text lecture notes, and markdown documentation.
@@ -99,6 +99,16 @@ Unimate-Ai delivers 11 tightly integrated modules designed around natural langua
 - **Audio Playback**: Speech synthesis synthesis via Web Speech API with regional accent presets.
 - **Global Context Injection**: Prompts across all AI tools can be steered to produce outputs in the user's preferred language.
 
+### 12. 🛡️ Administrative & Analytics Dashboard
+- **Platform Analytics**: Global insights into user registrations, active sessions, and document processing volume.
+- **Database Inspector**: Direct GUI access to view registered user accounts, system health, and storage utilization.
+- **User Management**: Centralized hub to manage user roles, permissions, and administrative access.
+
+### 13. 🤝 Community Shared Notes
+- **Global Knowledge Hub**: Access a community-driven repository of shared flashcards, study notes, and research summaries.
+- **One-Click Import**: Instantly clone high-quality shared notes directly into your personal workspace for study.
+- **Collaborative Taxonomy**: Filter community notes by tags, authors, and relevance to specific academic disciplines.
+
 ---
 
 ## 🏗️ System Architecture
@@ -116,8 +126,9 @@ Unimate-Ai delivers 11 tightly integrated modules designed around natural langua
 |  +-------------------+  +--------------------+  +--------------------------+  |
 |                                                                               |
 |  +-------------------------------------------------------------------------+  |
-|  | 11 Modular Feature Views: Storage, Assistant, Tutor, Quiz, Resume,      |  |
-|  | Skill Gap, Planner, Interview, Academic Exchange, Notes, Multilingual   |  |
+|  | 13 Modular Feature Views: Storage, Assistant, Tutor, Quiz, Resume,      |  |
+|  | Skill Gap, Planner, Interview, Academic Exchange, Notes, Multilingual,  |  |
+|  | Shared Notes, Admin                                                     |  |
 |  +-------------------------------------------------------------------------+  |
 +-------------------------------------------------------------------------------+
                                       │
@@ -242,18 +253,21 @@ User Microphones -> Web Speech API (mr-IN / hi-IN / en-US)
     │   └── SyncContext.tsx     # Synchronization provider with polling fallback
     └── components/
         ├── AcademicView.tsx    # Research paper repository & classification
+        ├── AdminView.tsx       # Administrative & analytics dashboard with DB inspector
         ├── AssistantView.tsx   # RAG assistant with document context selection
         ├── AuthModal.tsx       # Modal for sign-in and user registration
         ├── DashboardView.tsx   # Overview dashboard with analytics & quick actions
         ├── Header.tsx          # Top navigation, global language switcher, DB inspector
         ├── InterviewView.tsx   # Speech-to-text interview coach & STAR scoring
         ├── LanguageSelector.tsx# Reusable language switchers (Compact & Banner variants)
+        ├── LoginPage.tsx       # Standalone authentication and onboarding page
         ├── MultilingualView.tsx# Translation studio, audio synthesis, phrasebook
         ├── Navigation.tsx      # Mobile/tablet bottom & responsive tab bar
         ├── NotesView.tsx       # Summaries, key takeaways, & flip-card decks
         ├── PlannerView.tsx     # Curriculum decomposition & weekly study calendar
         ├── QuizView.tsx        # Multi-choice quiz generator & interactive testing
         ├── ResumeView.tsx      # ATS resume parser, entity extractor, & job matcher
+        ├── SharedNotesView.tsx # Community hub for exploring and importing public notes
         ├── Sidebar.tsx         # Collapsible desktop navigation & user status
         ├── SkillGapView.tsx    # Career taxonomy & gap milestone planner
         ├── StorageView.tsx     # Storage explorer, version manager, & file previewer
@@ -348,8 +362,8 @@ Unimate-Ai provides native support for three primary languages:
 
 1. Clone this repository to your local workspace:
    ```bash
-   git clone https://github.com/your-username/unimate-ai.git
-   cd unimate-ai
+   git clone https://github.com/Mukundj26/Unimate-AI.git
+   cd Unimate-AI
    ```
 
 2. Configure your environment variables:

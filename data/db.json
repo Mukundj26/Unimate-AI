@@ -79,6 +79,16 @@
       "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Ram",
       "role": "student",
       "createdAt": "2026-09-06T16:16:51.609Z"
+    },
+    {
+      "id": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "name": "rahul",
+      "email": "rahul26@gmail.com",
+      "passwordHash": "b17e3bf6260aaa7b04de13aba5f2b3c628a9dd19357557209fa4184bc63c38478c24200776823ed9d7d25e024f29f0cf00e2962ef06aaa23178735729cd7fcf1",
+      "salt": "3216d44d8387b5f6ba030646577ffcec",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=rahul",
+      "role": "student",
+      "createdAt": "2026-10-04T04:02:21.842Z"
     }
   ],
   "files": [
@@ -115,6 +125,23 @@
       ],
       "createdAt": "2026-09-05T12:51:11.344Z",
       "updatedAt": "2026-09-05T12:51:11.344Z"
+    },
+    {
+      "id": "file-9a6a06a6-43b2-4e38-844d-4b028e54d0f5",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "originalName": "Screenshot (236).png",
+      "storedFilename": "1791086815898-120376020.png",
+      "folderPath": "/",
+      "size": 634447,
+      "mimeType": "image/png",
+      "version": 1,
+      "versions": [],
+      "textContent": "PNG IHDR 8 C sRGB gAMA a IDATx^ e ! @ A@D # E D@ \"*MP @ }EQ E Dz $ B g yv L i {A 0 A j ` F H | }_ `X$\\' H![4 I DL$ +*d F c R |J I X ; ` *= 44 A E N d x 1\" M ( ; G O Y 7v w - q \"u \" z . & \" . h H w ? M d y P. kEV- L 6 k 1 5( Q DF 6 iY N U G # m i_ ` _ 2 n s^ o rm F & D +j_ Sd b y KqMx U' t? R / o ey V - _ c F % u ^k z Rx a s5 t h4 k Pi z n \\ kK H ~u x 7qG : `ph ]z 5 VX a B ?fCs 5 \" zw @ h t t ?Z 5 # D O(, 4 j 8A` 5b= y t = v 3u jqGr 1^d Dw HdU{@ O?[ D2 \" X ` L , G f T@ q y,d $ g ) V- i_ #3 > 6 4 i a -D ?{Pd J ). 6 %S&Y x : % Z _ A $ N _ 0jX ]@ z Z ; Ha T? a ,Z Y -IYV : nC x H on 3{ v( ez|e M , d{ ; `? y a8 .s W N) # r MH@ v U u ; 5mk N o ut] x + l 5 k P: Z *m , N i R } 0 ~ O eK )% = \" { ; W ]] s/ y L G w _ X L Ji t b EV VV ]i f ]W * O. - 2 UI Wf s m w, M m t. w V N r n/s 5O? L fk c :M = 3 )Rk < U` - O D \\ V@ _ p k]i i ig ` W ] G4 # 7^F4 t JP < l 7 0 y % Z Z o zE:; ? s I2Q : );hD = I c i: [ [ O=)s? =L ~} Z i Q # / c = y # 9 s 9 ) ; : d_ I &u _ ~5 A =o :< sr } K M'} 6 N N /A ; e m, n)sGn! 6 k ) 5 :4 _ 'm QT[ j ? s O ,o ~ ] > G o g q } O<YR C_ p C V W 5 ;B { N & 9 $ r V |z 9n 1r # u e2 h vZ e `h y j s 7 L ;V;2 ! _2^~ ewJ e }3m FU @ { $ u u { ) ^{ ] BJ(7*b 0H - _,K G G B 5M % Ag | z `E ! ) \" m J o A a h ? * | { V O ~ $ J bv _U p\" d*% z] } a v jw { ~t = vwj e' %S\" G d wJ i:/ R rq v ^ 2 K \\-? .$t rX -@u i N < \\' tZ Z} M \\ 'Nt 9 n 3 ; \\ [;+o Z f [ t i^ $ ]H:f^ H } }l L +} y N8 | 9 e o | ! { %Kd 5 * uW$R'7 6 ]=k '~ k/ (uuu 2T J%$ dQc\\ ` | iM e {{ <7?$ ( W[ j f ^X { {? W W'~ o h ? CfKe N W # W hW : ; u ^ ~ [ C ']p \" p _ 2' :TV Za /8 w u O ;o % 157 9 2 eQ; { \\ 4 + uy > / O o nx s <ma _ \\o[ t E & 2:x { g e { k }jp6 ' tZO{ xf 8 G ? J k:hz { n:h 3; Bu~ X Rh: |=' + B c = z \\n V { & 6s + ^} = my 7 ; 9I 1 N; : on 0j (;} } g { i T! / g yW ? > ' <] 0 OK M e 2 y , H %&A K 5 C V } QG e 3 _ _{ W] z Z jp > w ot ZA]( 1 G - v N? = { w K } C; G c P x 9 C o _q y /= j _U g k W3n A o u \\ j ^r o _S~[ v , 1 . Ev - ) 3 4 A gL ., /^d { q! Q^@5 K_ iA +~q N # a o rU } mpf@Z Zm s c 4 _ - ~ 1 u _ ) kP8 _O y bi [ :|^V ] V c +}v h M9 * `( P I c *Y A@ a HZZBi Z Ri3H Vv 76 / g_w }7 v6 G y m { M 7 zbo \\r m} [ ]e 6 u4 h i s5 }& nC sQ ? } j 6 W n- zK ^ UKE\"* w \\ $ ~ w /R u7 ~ v$eTCPv I c r A = 4H ]) l + x , 3 ! ARo W J v v1 _! ^KW} _v ^ t{K 3 J + : L Zl S?p +;P .; 9 B S M hp Kg n / ! S q 0cFw x Uv ! .X` ^ -@ 9 t[[O = W[ j+ = K { Y3 D / 7 dc 3 k Tn z n ; ? ]d 5 g m V J, ) P\\$ t ? Q3 oJ GD w ukZ u } @ 3 j V Z' ]# r s A [ w e {4 ^ : Q l sNJ[ n s } = w Z D} o\" o P &u ^ u g *u & &o: p( l7BN;p ~ 89n G A r 6K m) [ s / Of05s { f- - 9 \\ ~ }. 8U CY9 [(m L r} zy /8 g z]@k L r * g { b V[IKK } @ E/ = z& r ISS f Q _ CP] 6 V[\\) o 5 jXnf ` ] )3 m _ 'w `/ V/ { i p} % } =`[ ;V ^ t l s v e d z^mm Cv * h !d } = 8 W- \\ {}~ ! U6 M Ri +' 7k G d ! n z9d Q w )a O sZ5 : {3e t @q! {-Au m jY R^z E F^ RZ jw b e E w u Ah GW a}> N & t=m Tw j Y 3 e 1( . L v j D\" g 4m w Jw!P r @ a Y9` _ &#G c 5|,R F N . } x X 7h k_ Z u i6 <n {. r g { \\4 \\ :o Rk W 3 B ! TJ` w O A ! U 6 l =h F EV MJKgZ IY q# v ]^_K 0 40{ UW G _ y H &93 AR ^ W_ ^ z< R.z|z [Of 9s ` v Q(/H 6 t * ! Z \\ ^g v [ \\yX w .Y } ? imm ~3e @ gZ ? S+ z q dL $ / B I a y]# - Z { 4 mp zV A m b_= _ g O= y Y> Sm kkb _} / ~ , r ) + ~Y i t ~ y; G~ _ N V Pi(V 3 4o F Qr r K r N w } ?fu sS2 ,;n ( nC U, w M ~ A s bWi V 5 . o -- ~ ;W G ; 'uzv O ` v# 5p1 w K [ / m& ` 8 \\ 3 u < bh ? : > B ~X r g k v r a G ~ ? > x w t } ~o | m& l ` `} D* P(d J[ 3 ] t v ]Q5V j P \"u- _. hX&? c_3i ? 5k [ w ? V B # m zq Vz -?a 7 p |e hKc m <V. 2 ^ A _ v E !K[ 7 w P 7 _ N- @ c' * P ]\" v IR \\BR S L y2p EI k<! C A $, p w Z R Y \"k?rG d 3 = ] - l V\" w t7 G ` tn M ]. ; . e {y/ U V & G / wG Q\" W i B - Ab I z CN L^O p + _ q 4 qGJ 6 !_z G { ,c *c Y ` D F # c HW ; C 9K 2kQ@V i@ i s@Z ! i f#\") \\ V % _ o , TD ) 4 A B F ? r 9 Z $ H b ( JyTZo ^ 7 3 L , F ? FL . b]\"m ! I tG ` Y Pq & 0 . i K !A 5 A P } *4 tG <@ VX 8 s ; t |B \" \" V- I )j ^{ V]-\" vw Jt 5 o ` E , 8 TG Sd \" z 5 Vx X # q Q H) / X t |< %z Kq ` S 2 u? 5 # 0 -5 k m } D w\"j ^[ z i H |i x e2nnT l$2r=w _K p t hPX 3x qo < G \"u \" z . & \" . h H w ? 3 XD 0 N& I , { m CH r ; P= } ` g & 0t X C >OD 0 Py + l H hw a U EFMp' T 7 `+ &w 7 Y p ; 2 O } o H +D: : SX X ^N% # N Y$ vg @ 25 . u t 3 r(0f ; m G 44;]. \"f ; PU H2 2 . m I =z A 1\"McE y . I \" kD )w H }5 D 2 jlWc u9 (3c zv 0 h Wc 5 g 0 h Wc FP u 3 | u < 3 44 S VC m h` I& % LI* t*e $ N; @ ` MK `0$ PP ag DL 6s 5 + LH +& xL : 4 I(D0 & Hw j o 3j[ Ep]c= D S ; j KCS ; Z@ \" LJWG $ Iw C( & B g Qu DB: x / n 1BBa o #a t J0 49V ] t*% d n/ L K - I( `*. TR BXa8H $ H2X/ P ; qD3A a 0 F } hm v/PW_/ -h H cQ Gc @ ) $ h `* N p % n xd CC3M#G 0F U 5%JCc } x)4 D< N . *u 9~5) H n \"# )@_ L` W ;n tkT } 9K%6g $ v m c$2e $ 6 N 2 N G X_ p ( hg ; ( m p uA\" (] h _ ` 7x n ^ D `Db $M $ ! o ! L % x g % ` Qy dB:Z O t w c | 4v. C 8AR EnM FH(T H| b A M \\ R + N3 K*% GH Kx g Xg H] mQ / ii \\A w \\ V v U^ O `m J` i D5 o .v9]> t . 4 n 0**o @@ C + ; Z R\" zT F [o c\" p 7IW xwl` |0w $ )wJnM M c\" } ]]Q z % \\ w ) l ? dR~r ]V t T V nw y K o HG tm ^W {} w > xsDF x m ~ 5U ^ \\n r / Nt m K/ & U Hz ? +/ E d 2~ = =@ iW s x v f 9 7^ U ~0W , H X E + ^ 9 N f [ d 3 ^ I<< ; .\\(W 2immq 2e[ 1 | | ,M o = Cc- V k[d 2n ! y ) oo r e{]m P IG K = _M{m 1 7 y } A i ce O @}x hTn 2 g -' C G U . 5 { O 9o &O= ;u ? X B 94 | ' g\\-/? , p 1JZ a g & 5 [m x o0 | 3;n/G| p m s }WF o w Q ; / I 6Kn: 9 x | 1r w R ?P O >*3_yE 9 k ^{]ZZZ 9 ~^}u n F6 o l Z SWW' `P } a \"o \\ o 3 g \\,?8 ? m *+W p \\ ? ^ ) @@ ) JgF W X\\Rk;$ K i <; 5 [:$ Ot ; v H C3 - < # f ' Oy 9 W ~ | ;g >%[l m 3 kV =Y4 =v [ |\\ ~ = E g|W: a L d > r ! = d 3v Se _ h [ . ^ M d- t [ Q 1e X8 A^v Y 'M '-n2 5 s 1x r Z i *4 ~ !9 wl 78 { K I~ s u T xL J ; SN w _ t SN / x 4/h mA = 0 7 n r ? ]'g 7 c H: 7Q z =\"g =Mf . -t V + >\\` W z4 S Um K t% = f 5E F L 2 '% X L l 3% z`yz { bO y _m} oM= 3|| A ! l K % _ || Om/ \\z # e j h ^FO u ]o o @ [ o '\\W & 1 yV o 6 P > N i ) u W B 8'cYg 6 R sW (, ^r w~W + n ? M 6 Yi }! b $ P R g^ i{ } N r ~ v 1 R Z u l 5- / W W o c O: [ / O $ /~ +wK Dn?vw i wJMx bsN 1 N Y C {/ N & ^ 7? C m 0} / ?x ] G !_ g / Q Hw $ 2 S T _[ z DRF 2z w% Iw f;]f{ Z > | e v m u T^E v [ n ' r m I =w7 Q N Wo :' gv > u / { %; J X 7A N | 9; f ; d = , c ) %Wf !2 \" = w O | - D \\a 5y | T ` sO t v S [W /{N &; f E ^L6 2 7 } t Ws [ Y s r P |=0 \\ ' g y - W v T9 N? 4 o. Z A e [; [ \\{ ^ u C 2 H j g r d iQ\\N } MyA p(, &m, > Y::: r y ^( T*% s c 6 <B U uz5 | * < C U ' ^ Jx Iu $ I K\"S6 g T, c }w lO 9 $_? ;r U W w k) jA m G ` 6 ) ]0 M! M # # \\{ 52q $9 w N Y r S 3 { C; z u; %Gn, , X ` N; I O2 . M =7 b Yf7w @ ; | ; j i d 1 < C d/9 . V v u/ ? x s 7 _ +{n2 _ V*_ + , 9 ? + t[+~ A # u G J |L ] 3 z; $ U; m |),l>| 7 Bc- -j z M 3e |g l o } m ~& { )MM ' _ } l \\ Y# > < s r %? # v Ts )9 I v\\ |]N t} n \\ b> Lb ` A A \\ B Z ;K =*i :8. _ K-^% p 5` 3 Kg l qUIE 6 { m w 2j .h o ~bP }G d -> N m - > P i f [l!w / }${ HSs D b 5 q 3 iw^ O r <O e2 Xn=*s r *G 5 ua 2 T ^ {- Q b s :F] G vt m f e ' S > g I z: } s}t_ s u ; %/>#K6 Kv ~>f ghf k[ Vo; .{ u_x N' . j= t y k\\ 9 >] i s j <p o wJ r } > Y j O n g ,4M ; 5dn3{9s ^ f v z~= < r& v ? } ]n Z s]& O i eI 5m/ w \\ w s w = 8 9 3 C r {_ ]Tk 9 X } MzZ 0 s * 6 Y Sz u! w b S =G < T :O r ? !y cz W $g C D - : 7 4C 9 l \\:;: o A | Sd ]w } {v N O 3F { = Y #G P> o~{ D Q 7 /w / } +$ M n0 :] r v U / 3P - V : \\ Tk t> D> ) i tGT .[I 6a V 3 W Z! M \\} 9 o ?Y f ; * Uk V e o < bN ./ }? :;; i ; W 9TG !hn |> ?(o # ~ l ;d Y Y3 a X 3Df 33 ; i f y ?K6w z y T w | >4M 6x8U M{ >d !} s C 6 r s9 ~f \\ ` kd k u } > := ~6H u f ! J <,S \\ ! ? 5s |9 Y 9~ XG [ q+ C_t 3 h I 8c _ P BQ +r { ]. u L X 2q d E i h vW I X1[ ] vO t bR6>V R : us \\ < JKl |> t E j n Mn = t Cz N K y w d n ] r y s 9 ; %Ge . + 0P ey l4 I \\ . X Hv | | U / . Uz r w u + i6) }.8]: R j^ s I `H 5 i u3n ~ T 9} . n_ d?3 r ' { 4 { e ;/[ f xP l x + u p M r _ ] d c ; }O X ~3 K | <o[ ?{T^ v iI 'G s W>QzG '?% w I } l ig ); P ^ ?d U2a r r 2e U uz` c J | JSs _ m ; } n w { e H' i : ]v u N: n Fy T -&I R N uN$%8v ] $ 6 h ~; = ?B = K k [ot }?^ WKE ' u } <r } > a l O < _ = y t c vu e . w L Q^O /S \\ >9a w M =o g 2Of k -lr \\ y fC_ x4p:# qN: >'h; j a 2 e q <tuV l w )f L !W N4G>u f r g := ]# 2Cf <3 + / f 2cf Y[ k~ Iw d. (3( >Wd goO d < Y { S q{LZt FS 1 # d Q Pg +/ 2 1; \\K nT+o <p D ] Ss <p .y J X* = % + mUZ n Wf^[ dw [ KH | GL W E o' qfO w Z^ hRO@ A<yF^ q? ( @ _ { q A ^ v y < > 9 r zG9 r3 Y P ( w ? v k HCC l E &+ v 6y k W S/T { / Z v G' J i IN Z wv/ S~ _ C L f K1 ) t c - *zV 5 gv {W r =?x w I B_ 3 q^6 Y G N J ' H sYr qS ? o g. 8 x 9 ~& o T > h t <P[m w Ro , 8 R _ p fmOW A v m ~h = |= O? }-'= _ 1b - s ~s vy]O[8 Q s6 V I n v3 % + % h T t b ,[}j; =f } :^- F k #c O VY c p B O~ ! h,& } M R :;d {~ g ^ w xUZ {~ U ~ .\\(' | S _;\\^ B S } -H &M bvs vKm u c [c w| s / l w < [ s / ^ mn m < m { j ^ d = /_ t ?' u9 ^AT $ += h .2E .N: v d ^ / .+ PX -J .X a[ f A Vq \\ L r n N w = ] 2i l %/i O .cM & 7] Hf 4 b T[ N `o 6 <y A b D v S *0 r? Ay = Q @ E Uo 9 Y , ' Z:;]G + e L l+t f _ / ) 0 A Z. 'M GN8 8w c w z VnG u L;}j R |i Nv E ~ F@t y c >F. b Z Y d U >] c V p n{Z 7 m D w e rT 3 Q q o g K L H ) t u W L B r G K. Qm ; [e o N6 A + ( I Q Q. S o g A {:9 G &N ] % %w # O<n n 4M. x M u /s | d M7 z 1 N. q#$ }3 s fz O G 3%4y} n o WlpX t q p z o(? & ? 3| sm w /| _+U gws ; / v \\u~ Z` QG ! ? l = G p> X>x L 7 l /ww t + | [c | N . u~ ym 23nj { o82 y EO > s ? T . 6h] w g8$ j { { V v[ s]7` pq ] .Yb x 5 g \" Yw L6_ y f M 5 rNA p 0 9 n- n k1h ~ ) M{7(d x 4zVrw 4u[ fwI\\ u.B |[ %* ~ o^ Q% j k[ q o ; G 9 ,/ ~9 = gd G d mE u CS* m zN &M ]' & [2 5 S # i^? | @ .~ . w=R } v #7 q < y d |-{G l , U9 X , h z q f ) & / 6 I N 5 + } #e p~ W v t x r b -e = B x u K | W 8PF ---k [oq : o = \" n e 2 ~'K6~ x E c <* g i @E> ?< r jZ 65H y 7% |I D 1 # {N Uf A U_8 0 ?a}y ?WA - A M _: ZY ` d2 q 6 = w 1v # <, / X~ o /3n Q w E < $[Lq b C \\ a _ < `y' y nI J T=n ] C v { W 9 ^ -' k!- - & 5_ 3 R i O =i < ; JRl f `c N w [&~ v w?X | 3 V 6p ~ k e a ~ x? b S } | ir M R g %r w ~ v ; q d e< s S^ 7o > 5 w yR o \\, z D | T Y vN _ { / p|iU0 ju; ;/ X t w = 5 p G1yc8inj U = v m f g Z% I on Ca9 i O 5 H 3 <% . ^ @Ev B } % | k: _ f >l a < t ZaO r e? N `U A U :9 _ \" yo -] T ]2r 9 gWJ} #O p $M W_ ^x f s J ig y 5 V - . s G ^ B [i , A U 8} \\]K[ d s/n7 ^ r 3 k ] 8 \\] `@f } -O 8/`Ph+ orZ ~ k j / / ' b '+ wu ; t 4 ] > A= ^ m x P4 j w ( n {Y L r h | k 4u g o @-Z |; V Ww i [ B~ v _ le 9 \\]/g 3}{ % y =l * !k E3 J j + - U W >p 8B d ' $ v 8 ^u x < 1R ? iy = - b { # <8m; G W: N U 1Rd K md; p # xf - y Y I * 2/s{o , Q A I y6 / |y _ M&m m1 soH 2>s S| |1 | rkk 7 d w ] 5mf 8 HK[{ hK SN l e } v P~ g ! lno J Td $ i 5 JI N . _ M k:$8 Ib ? $^ / \\ F ~q `}D f; f{ FId v? A k. ~ J x XyA q o ;w [o G[ l - u | E $ s U v I. f A8bn R ' zF ~0 {N n ]v d _ O ? \\ 0 N Y[ _ r o= } E Y Wk_70 _7 \\ v % [ &S \\ w Uq 8 L rA G (; u y 6 <? N kz a' W ]c J & _# 2C p 0 ] 1 <Xf 3 , 9 1? N8[ 6Wfj y < <4}w n { l ^ K 32 ^ m w 9 N4 u % 8] { tZ&j ^ .}Hn uu , % > q n! 7 +) h s R 1k[[N {$+ ( Vn lf 6M: N:w :- b q[( j Umf b $/ % t V j o _ 5 2 e@ 4O >u C \\9~l ~ : Z ? ( [t 5 D 6 r r I SO?] < h g y n ~ ~ _ WN N ~ y { l eV7 r u Fj 4 =OC ;9 \"+ >O 9 %W\\.?: a * r - < r 1 u 6 U 7 s r O # _,G r , ,? G Q#EZ 6U Ny n y .}w8FN /- v ] ?c : 8 t}5n| 4 i n ~p y v Z n G?<Gn V n1 50| g \\ ]u j K W z * . ; : Y ^w fi R !K 5 h# HXRKVK $ OwD% % O yI l5 hn8 u v h P E A>1 = m f2v ! h7 E d = 1i ,Y @&m6Y @ z + 6p )< cQ ] :7 p ,Z H ky ~\" })w s\"^\\ 3y5h wzH ~ 1 g #g et \" L ! j M ^ >d b ~ l~ , 2 ui hK 9 e 9 W 4 * = > ~; {f] f g{r Ns \\ ]t 5rH >v L m \\ q t &z c p , ] z r { m~ >wU :\\%2M N mW +r }F& *N I B + g 1 E +}vz ~ \\ _W 6 T k5 k 9 ^ n [ Z u i >x np i d5olp4 Xup - 3 m ,R 4 = v?xl }_$ n W 7} ye1 ;? ( = ? { }Fv e ]z { n> < _ ^ # ]9 j G w m S K/ U F r y L ; ' x um \" o-[ G < _T . c r m + Mt <x 1 ; xP [' v y 5r g 7 P Jy| ]' $ s O Kn9 Q g 3 c ,;F~y 9|}w vr y ]' ^z A.=B 3Q ]r [K ; yM b ? y9 ) 6 tSw t~ : p 3 r % a T~ O S 9 ]$ 9 [ ? 4h O & e / y v T O~J \" W z4 S 3 Xi N`I j B c \" E - $ L S'2e j Q ;$ s A y H T m ;s Ol 1 y y.] C[ Cw = V ? P B[ ` l 7i q] J8A_ ]YP <p ^ w \\ | 0 m) Ki <PE : * 1 ^x c ' f< N8 8 v T { L 3 K + oW f - _q ; _$ n[ j +V | rI${Z kW [n l & : `9 J{ 7 0 zr q ;i r U++ H 5 6 $ p ' F + @* Y 3 k ! % k H 3 < q ! + } k( k8 \\ 0 u x | =l - . 2 ;^eK T b 9 E ` t P ;O r J } %K 'c 5J~ e |F ~ h Q { p i . z o}G j $ ^3]~ E Tn v f |&p \\9 UW 2g W % r { 0 R d 4 j m q[ O0X Y t W ; ]D `T\\g[ o R L r v O & | wW O dG 2 L] 2 W c3m ! u 7 f M , z VtZP> | d < \\T l X j -r en}l[ ; < `H $: K ?m ;w } ]7 h# h j } y _ ?=QZ >(w Y f oV / W 1 ] 7 ` W\\%c q T v \\ bQ +o E 8b`] $ $1 # ` t aL M F]: tN + g \" Ol u `T\\2 6w / 6@ ( | gT y <w YU k E } ' ` We c G |w yC ~p K G = T k w R L ? n #7 Y ; 9m R # 5 =+ n L ; 5 ! P 9 3% 7 n ZI tR ? R ;H `S} v e Q ] F $R_ 0m & J} $Z?Fb -R_/ M X d M Ib \\ ^\" . \" hn n -% '$8 mA F hw D K . B A P p T0l[ & U a C 4 W Q5 d `((u Ew X K Q o @ R k H U *t1 H 2c Dn { ; `TU2 n p$, p S ^\" g ( % o p KB 8 AI % j D \\U m @ U - C 2+j 2 | R ? f !I h h # tWGG g MMt \\# cPuutJ< u PM zihjt P c % uFy / @ # k P . k ` w $ |` O I o # !) H dJR S)35 i\" y 4 +i $ 0A u ` A 0 A j ` F Hw a, v e7 P x 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# [~b 6; S Y8 H8 UN*% 5 T J ?= & LJ, s z B! s h -m2 t z :P~ 4 L G _ C6M TJ qI$ X_z~ H VK i R J K K8 # | \\ ` ) E Rh >P gu z t . ^+ c:d w|~eQ <U, zN 4 +C W +M3]6 ~ K 3 ; j r) ) @ ] t n =L J L 0 o &3([)Z? x gg Ai l J } }{uDZ'4 1d OZ #G R Y+'u JJ 5jTY*pK9. urU j l + \"1[ t K lz~Z s% N VF c= F X F;T ^ Vw G c ^J Sgg z \\ W ~ u* [ \\ @ _ ]'W@ y6 i / W 6 2 t 4 U W 0[ss 3 u}J1 } { ~7 } V v _ @ iEQ V4i P +X e( 4 j% V s 8 c ; MW /m \\t Z z jY f %~ -q ; izk Y+ s V z_ R n] _ W $W9 e \\ g } + L * \\ * H l 6 I%[ T p i 9 V ~ J \\ ( .yj8 C B u h / 4 ]H C \\ _YQN~ # ~ p * @ i _K j @E1 r oY }VY G . kN nz )1 i ~]J C su i u = Z _ = k \\Y z: O A rV+ * k B M Z7hkK | c vCX m ] p rU k B 3f 7 N \\W u)&` =^ b ] ` @ ] d .5 Q :x T B ZU *h | x 5 / kh WZ - s Wvj } n u x5 U yA) kw z/ + * AZ. ] M{~| rX Z c C 0 Qk9 W O |A B | @` R ~ _ T J c k J m 22 9 w h o J |y k \\ _ N J 2- r / k +h {_ ! JY w H \\ t b YmT = !] p - X km +h ` ^ J \\ -$ _ (+6 X. ?r w Z t g4 Bw z D_ z b y ; y ^ \\ %z ) J A A; Nm)U c k Z ip B+ R H J f ] J 6 G ~AD= w ] Z X h k +h s Q g k% ] z t > L T l&o \" C U 5\\ S+ Z Y d U B 2 n \\ ~ W # } |+ * 5?T 7_ e ts nz S > '_/ D- W R > = \\ w% z ~ O VY f n[ 0 W ~ P@ Ay VR~ ZqU R _fW h ~!A #W Z t ~ /kEa9 m( rR u8 b \\r c T u S d cAe 4~ t R H v9 / Q ^. \\ *_ ~~ 2 \\ w | z 4 ^) \\ w B x Szj _% l9 rUTi u n:s r</ ~ Bh r u G[s r Zq . 6 D 0 |A b C * ` 4 < ^ J | < Y: = \\ z( v9 ] C_ k eM G Y 7j C 1 Q+ Um.Z ] 3( o Z \\ r+_ t9 r @ _@T X k ^s W 6{ H JU^ V K _ ~ H U ;t G K G X(w~ % >3 41 * 3 6s ~-f 3 Z r & ? @ qi s~ ' l c c J b+ b+ _ Wa / T, 0 V = | `/ ]YY t \\ [) x ] ?< 0 b F / ~ ? HP@ {s u BW -? UF = ]@ B \"_9 iQ r>_^ r = M \\ `| P S ~! Q A < k:j >S1_ V\"k k bZ T ^ 2 | bhe s v Bi J[ P y / t Jt=M \\ K c m [ 40 w { < /0 C . R L E? ~?^( z _ t t9 G [ = u g_ r {t ? ^ | ` R 0BW,%k : \"Uj 3 0Z 4r I X f < QH V Ul G+M / * kEm9 ]i _ hP V k di e `d>z. z} ^ eu aB 4 MM/ c ;/ /h SYz 2/ ' A~yW b s^ h0 W B ] L } 4 J g _ r V u? W W H B ?u c M O % < `@ +YwB M {Zy Z) 2S Z i # YZ U j v \\* * P = | -0 m _ xi ? P H mO 8 *(u Z x 2~ t x AL=6 ] w\\ y o m% + t \\ * ~ :] UH *| m _~P 5 Vh - @ p 4 ^ o5 q m 1j iZ ? Z M | }k e o b >r ? ~ +ku_ r *5] T Z /ojy r xt{ o i t . b i\\j - = rmK z ^ w } y 9 V ' {K e ~?. ; !0a T CU h X[ n Jc]i h5R V8i S J \\ + Vd v Ub | ) [y 9x xZQ c y F d B6S : c U Up Q F s R * s w z yi PZ c L fz^ V: wn M l | *$ V / M ^ ~ j E - : ~ K K =?z t [ P _ T\"_ * M . 2E Z 4x ! i~- GZ o L 1 I + = i eK L = _ K ( T `= B b = - s D V[ kUz}$h w U 3i V k! * 3 B* r } k%Q \" J[=F . Y} 8 < | ` . } B+Lu | S } : 4 t,4 z G w, C tSz z, t-$ 9d c+ K3 ^> .z P [O 1 n \\ b h> J Ri> / sz 2 '] / v I mk /~ o b >r W 5 U^j K 4O y i + =z z S + * KWM 1 \\ U H R {Z + +z/ w I!4 4 [ s S T :A ^ -p # M!in L V _ bI G YmqSh /gK |+& S - U[ xu T U 5 1 G I+o =/ c L VKC=HR 4 {C | a>z, m- 4 w M! N ZnT R 2 % S }W\\ = D x d 6 V d U j F+ 4 N Zv D I c R oz c )[ k * u @ r= r h z * P : ,W _ !~ P -gu E?o ; J B r~^y ~ Qi _ Dn =% : - q 4 s C q K ' 2 Z wc M - /G 9 r * 4 ( ,Ge VJk ^ R 4 ^ | rV 9 C _ ? z- y 4Oh - e-/ u/ K? k Z }vi^ h ^ w^ V g / ti ^iZ G /-o4 { ~ P 0a vE h \\ Z}T : !I[KiE |]5k T K \\ ~[[ ^&]V+Y r4 v _pY+ bQ+ Ya I {Fc L lz ^ *U A+; u9i ;& ^? y z ^ n Y ' Ej | eQ% m 2 S 2 BiZj g ` > m/ { 4 ; \\e~ Pi W W :;_Z V [ v--- b jI { Wv $}+a p@ ! & 7P- G A ^> ZC x A V > { F j `' O i # <L | F 0 _ u1 L ( ah] G x A aLc _ = 4H `i PM & (@:=t K l ^ h \\ <7 ` | x w a y 1 8 W_u ] t = C 50 0\\ + : H ! C, 4 . _ | o K ,d2 z E / 8\\ p) L b| 0 u. \\ _ B (] br Z T # 5b k ~a TW%bt RL @ (? p # L ] m * x\\ih 5 p _ G x 8[ rf 2 P^ bp C ` _ 0 8 z . > t # 5 p ` \\ $d( ` !& \"8 u ! ` ;0 ` 5 0 P# @ \\ t: o: + ` ] Z 9 @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ \\ t: Pn JC j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A J J M K ` *; L& s 5 p &LH Z 4 _ | k o/O< ; _ Y c\" o |f P - * A i i k urp 0 . \\J tY 8 J.o W ] = X fF ( [ / _} n I D\\ oi P\"! tJ B8m *2 N . 3E Y> Kx H +fK = U R yG } U N? l QI Y# e v S o^ r y %<f $` z m=Jg 5 'd L cp~ l z: ^ HWT 4 x 7 d <` { _ o# 1 vtW %` L AD z D\"\" I ?f 5 mh t 9G{ f s ? D ) _ [O ^3 ? u ^ R W= t K$ I Tg y 46y \\ Y n c i [ c Y Y tg K < H `C I @$l I M L B ^uRM 9 / u K W &/ Z J C I3 [ N cqF f a $s 7s [pD M # & d6 W 2 0 ; 'U * { 2 su ,gO & = J qs s B # W j x - ^ )s -u + { o s l dZ 6 L i C < # h QS tI S 1s/ & = 9 , 9 D;M 7 l^1 $d i 7e ) 6 + ^ ( S t v p e n N ) t { { 3 y { 8 xk o d Y X \\]5 9 L .7 v A 9T V l e V yC D k+R O 2 f S) | |3 V \" Eu 5 f } ( )S w t\\Ka7H JI} 6I X&+ zB>~ 2z j K}\\+ 8\" ) QI ?h7 ) _K x$$- #cw S6 G$ 4 ,\\/ @ Ny r] }5 ^J I g g g Q < h <) k%: x _ |c 4 m d k CT 0 KcW = J .!1 Ig H vg /K V[I0 A s M? f f q h H$a 0ge [zDD NH}0$ Db1 K m $ a rI @: yG: U 2 | [5 yE R l b t Bf{is\\ uuR?z Ol) d !<i# 7V #GJ Y&n 7 3$Ba } \\ tJ M 4$ q% &m E 7yQ aFB 9 9 ^ Y [ EW & ) | 8] L K8) Z j % bI| P: ' K$ M >K s kg o 6 c4[ F6 T D8( # 2z F 2 # l Kp 8 ! 2 Lz P o n e I 3%l < # b:j S }, ~ W m& r1[ 9 P 0 2 &e \\ zS 5 J%%6a D> 4 ? kY/ . 2 < & D } PJ ~ 5y B ~ < N L %RZ\" \\ )Y k2 =& mm J `%i 5 2K lG }G6yH HGl \" Q& q nh2 ie x f S> )! -wt#z % $ $ K{:n EB S gGr \\ Xd 7_ > ' ucR g 0 nF7k D=P N 5 s #&M5-t q Y@ F y#i Y@o 2z d f J`s3l D6 X #GH A I -+ M 6$ 1 @ G ' S : \\ I F / ` 6-7 {M |,$Mag R |+ q s }M z }u z (g L n ( i # .g T J jnn [ ; _ [ :_ V W V v 4o U VGf ] 4 Z] [ E+fl =3 ! e d / o X \" 6 hm Nim 0C J{[ -m ` k7 & DC l % I : q> < 5 > & O L M i X0 @W $V, o )m > U e A[ Zi h v3n oMT: ; + % Ni 4 F C+ PFl ` s O g 44 4 ~ : : % 6{0 T\\ % rZ3 | 3 Go e j W [ 9 `q A; ; n 3 tJ vHKg2) X -^$- V U i ) F mP6 YO A= +l w vnH t~ A v ;]WOW_u[ s 4 @G >\\$ 4S < | + b #I | J$ q C ? ` n iX 7n^ y\" - M ] l ,\\ @ / ` F 6 y z , X k ? h hJ J`R S&_ Q ^-K_}M:> Pd Z X ZZZ K h 0 X 1y K Ly mk h :;eu,*k O [O l2Y sni im V f ' X< p V _ 4 9? PA W $ s^ lY ,i HR J )S y n C 5 :[ Ws ] K )' 9R a-[ z8 L g s7 ;=A %l 7 wu O~ yO | 3 Y h M9Xg ] cq W' H = # j2r . 0e ' j Kd V| H I7 }@E _,u& hYaV7 n 9l L1 6 a m C%[ i! e -K \\ rO ki V 8 z l wG ) _( U k 8f |\"a k O ,[ A x 0 ~ N i [ f e j ? W j! { : / m H \"F eyP $mo y e Ip *iJ 5l v p- E L ^g h T e V M $f %C ` R F\" l 9 p T 9 ; m J DL +W K s oZ M vU+ b ME x N\" 6 V 'l`> O1 3 c ~ - g t I tB 9 $ CY5k ,z eY v m hL b ( T3x i , A 9_ S n { F2i ; Ni -- r * wH I F G+0 t ~ 0_N 6 l Ws $U^ H t 4 9Fg[ s :F H 9 # ? P\" Ni2 So6 Ai]/f k m ;-b d ` v s k Ri@= 6Gj _ q 0m k 5 `] B 5o W . yW\"s Z Sq oJ _ v3M | ^;38 G bQ \"V 7 e $ 8B I =sC J9~ vp ! y TO% = - [[e >~ - { w Q 3' 0i 4 G 6 v cJm / > p )[& ?) c 4e ]@ 3h^s G WN 9/ | y s} 7 hT H, H 8S ? x m Z X mR H { nv ' ` I' . }1 W 3n ) lK_w @ (- f +&] X[ d % h R ) U < y R '- `x 2X?Cu 4e 3- ~ o[ s ^* U W] S. {q k {; 9 C [` @ | P Wy > P+ c! ($ {[3c } 5 R) 7 SI J +T R w j a ( #a V c 5 t,& +% * %% ^ a 5l ) ]@ . Ly z P[ | \" ] 'l C+ ) O j S 1 5 TY 0 I % &N j.{ 6 K b _/ X<& := I 4 3j[[ } \\Y wedk l i kS b C c c W3xW VA t & 4 1uu2 CY K 5/ * K s [ t f ^ D _Y 5o 1 M z ]# _ L>z y d l F F x } E R ug u O : 1i4 : #dt Y: My O $ n[ k O > 4-l% \\ 0 % u ! I >lO0vp e w 6 g : ~C(\" f N p 7O -m H E 2_PM63 4 R 4 9 ;([\" !i2 y o[ 2 c Bi} s # 5 W < e :n+ # s D$l \\ Ik+v C l ^ e cOK oI 2 MM2 I D v [ ~ z Cw p N 4 <f2C |Q3h z i ^ 6) sM Q : $ nL4% y e / G 5 ) kDL ( ^ T l |B K c f } n t ; [f u r . t 1+ )K G g n^ ~3 g qtp OH ) 5 2 j p _ z >h Zae j W A X W] # ` p n q ~ l h j^ xipD qI K i hR DJ[ j[Gg @J V U !- u",
+      "tags": [
+        "png"
+      ],
+      "createdAt": "2026-10-04T04:06:56.691Z",
+      "updatedAt": "2026-10-04T04:06:56.691Z"
     }
   ],
   "folders": [
@@ -285,9 +312,83 @@
       "name": "Interview Prep",
       "path": "/Interview Prep",
       "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "folder-a48c2294-b76b-41f8-9d9e-e1e7b38d377a",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "folder-69b4211d-21d3-439a-9d06-851b76d2da37",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "folder-3324f257-ac67-484a-af13-27c9689e3c98",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "folder-09d9eed7-16b1-4f07-a164-b41a8e82802d",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "folder-7549027e-dbaa-40ff-b435-5a970574b88f",
+      "userId": "user-admin-1",
+      "name": "Machine Learning",
+      "path": "/Machine Learning",
+      "createdAt": "2026-10-04T04:02:40.903Z"
+    },
+    {
+      "id": "folder-4f90d63f-f37e-4862-861f-5718116808d1",
+      "userId": "user-admin-1",
+      "name": "Course Materials",
+      "path": "/Course Materials",
+      "createdAt": "2026-10-04T04:02:40.903Z"
+    },
+    {
+      "id": "folder-640ac2cf-cea1-47fa-99fb-ac9baf8a0512",
+      "userId": "user-admin-1",
+      "name": "Research Papers",
+      "path": "/Research Papers",
+      "createdAt": "2026-10-04T04:02:40.903Z"
+    },
+    {
+      "id": "folder-b1a9ccc5-313f-4f5d-9cf5-c534e4ee95c6",
+      "userId": "user-admin-1",
+      "name": "Interview Prep",
+      "path": "/Interview Prep",
+      "createdAt": "2026-10-04T04:02:40.903Z"
     }
   ],
   "academicPapers": [
+    {
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "authorName": "Ram",
+      "title": "xyz",
+      "category": "Natural Language Processing",
+      "abstract": "abc",
+      "content": "lmn",
+      "tags": [
+        "NLP",
+        "Research"
+      ],
+      "id": "paper-9bd5790b-dca2-4dfb-9acf-097b0de0db1e",
+      "upvotes": 1,
+      "upvotedBy": [
+        "user-522e073f-f128-43b0-96ee-6fc9e1423156"
+      ],
+      "createdAt": "2026-10-04T04:08:55.394Z"
+    },
     {
       "id": "paper-1",
       "userId": "user-demo-1",
@@ -895,6 +996,190 @@
       ],
       "examDate": "2026-06-30",
       "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "plan-6de04370-5e34-4da6-9b04-e2468ea1b788",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "plan-82381b2e-6f7c-425d-8933-e9812fa29a39",
+      "userId": "user-admin-1",
+      "title": "AI & Machine Learning Core Mastery (4-Week Schedule)",
+      "goal": "Semester Exams & Technical Interview Readiness",
+      "topics": [
+        "Transformers & RAG",
+        "Vector Embeddings",
+        "Optimization & Fine-Tuning",
+        "System Design & APIs"
+      ],
+      "schedule": [
+        {
+          "week": 1,
+          "title": "Week 1 Foundations",
+          "focus": "Foundations & Self-Attention Mechanics",
+          "tasks": [
+            {
+              "task": "Read Attention Is All You Need paper",
+              "done": true
+            },
+            {
+              "task": "Implement scaled dot-product attention in PyTorch",
+              "done": true
+            },
+            {
+              "task": "Test multi-head projection layers and masking",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Week 2 RAG & Embeddings",
+          "focus": "Retrieval-Augmented Generation (RAG) & Vector Databases",
+          "tasks": [
+            {
+              "task": "Index course documents with dense embeddings",
+              "done": false
+            },
+            {
+              "task": "Configure BM25 + dense hybrid reciprocal rank fusion",
+              "done": false
+            },
+            {
+              "task": "Verify hallucination mitigation guardrails",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Week 3 Fine-Tuning",
+          "focus": "Parameter-Efficient Fine-Tuning (LoRA & QLoRA)",
+          "tasks": [
+            {
+              "task": "Review low-rank adaptation matrix decomposition",
+              "done": false
+            },
+            {
+              "task": "Run adapter fine-tuning on domain-specific dataset",
+              "done": false
+            },
+            {
+              "task": "Benchmark inference latency vs full weights",
+              "done": false
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Week 4 Interview Prep",
+          "focus": "Technical Interview & System Design Synthesis",
+          "tasks": [
+            {
+              "task": "Practice mock interview questions with Interview Coach",
+              "done": false
+            },
+            {
+              "task": "Complete ATS resume review with Resume Analyzer",
+              "done": false
+            },
+            {
+              "task": "Publish or share research notes on Academic Exchange",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "examDate": "2026-06-30",
+      "createdAt": "2026-10-04T04:02:40.903Z"
     }
   ],
   "quizzes": [
@@ -1227,6 +1512,116 @@
         }
       ],
       "createdAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "quiz-6fc93dfe-03f8-49e9-8cea-312f8e0b1897",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-10-04T04:02:21.842Z"
+        }
+      ],
+      "createdAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "quiz-a541cba7-ccb0-44d0-ac33-d21e8d8f1d05",
+      "userId": "user-admin-1",
+      "title": "Machine Learning & NLP Readiness Assessment",
+      "sourceDocName": "Curriculum Baseline",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "Which component enables Transformers to process all tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent hidden states",
+            "Self-Attention mechanism",
+            "Convolutional sliding kernels",
+            "Max-pooling stride layers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-attention computes pairwise token affinities in parallel across the sequence, bypassing the sequential bottleneck of RNNs.",
+          "difficulty": "easy"
+        },
+        {
+          "id": "q-2",
+          "question": "What is the purpose of temperature parameter T in language model decoding?",
+          "options": [
+            "Controls GPU clock speeds",
+            "Scales logits before softmax to modulate output randomness",
+            "Determines context window token length",
+            "Increases learning rate decay"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividing logits by temperature T before softmax affects the probability distribution: lower T concentrates probability on top tokens, higher T flattens it.",
+          "difficulty": "medium"
+        },
+        {
+          "id": "q-3",
+          "question": "In Retrieval-Augmented Generation (RAG), what is Hybrid Search?",
+          "options": [
+            "Searching both hard drives and flash memory",
+            "Combining lexical keyword search (BM25) with semantic dense vector embeddings",
+            "Querying multiple search engines simultaneously",
+            "Translating queries into SQL statements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hybrid search pairs keyword matching (exact terms, codes) with vector search (semantic intent) for optimal recall and precision.",
+          "difficulty": "medium"
+        }
+      ],
+      "history": [
+        {
+          "score": 3,
+          "total": 3,
+          "date": "2026-10-04T04:02:40.903Z"
+        }
+      ],
+      "createdAt": "2026-10-04T04:02:40.903Z"
     }
   ],
   "notes": [
@@ -1409,6 +1804,66 @@
       ],
       "createdAt": "2026-09-06T16:16:51.610Z",
       "updatedAt": "2026-09-06T16:16:51.610Z"
+    },
+    {
+      "id": "note-dfb6dcf0-f089-4e03-a9b6-a55e319f3a4f",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, rahul! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-10-04T04:02:21.842Z",
+      "updatedAt": "2026-10-04T04:02:21.842Z"
+    },
+    {
+      "id": "note-cc35fbdb-7dfd-4f7e-86cd-0c7e2cb43587",
+      "userId": "user-admin-1",
+      "title": "Core NLP & Transformer Foundations",
+      "content": "Welcome to your academic workspace, Dr. Arthur Vance (Admin)! Key concepts: Multi-head attention allows neural models to jointly attend to information at different positions. Scaled dot-product attention computes Attention(Q, K, V) = softmax((QK^T)/sqrt(d_k))V. Positional encodings provide order awareness without recurrent bottlenecks.",
+      "summary": "Transformers use parallel self-attention and positional embeddings to model long-range sequence dependencies without recurrence.",
+      "keywords": [
+        "Self-Attention",
+        "Positional Encoding",
+        "Multi-Head Attention",
+        "Softmax",
+        "RAG"
+      ],
+      "flashcards": [
+        {
+          "front": "What is the attention equation in standard Transformers?",
+          "back": "Attention(Q, K, V) = softmax( (Q * K^T) / sqrt(d_k) ) * V"
+        },
+        {
+          "front": "Why scale by sqrt(d_k)?",
+          "back": "To prevent large dot products that push softmax into regions with vanishingly small gradients."
+        },
+        {
+          "front": "What is the purpose of Positional Encodings?",
+          "back": "Because self-attention is permutation-invariant, positional encodings provide essential sequence order information."
+        }
+      ],
+      "createdAt": "2026-10-04T04:02:40.903Z",
+      "updatedAt": "2026-10-04T04:02:40.903Z"
     }
   ],
   "sharedNotes": [
@@ -1545,6 +2000,53 @@
         "title": "Transformer Architecture Foundations"
       },
       "timestamp": "2026-09-06T10:45:51.709Z"
+    },
+    {
+      "id": 1791086817458,
+      "type": "file_uploaded",
+      "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+      "payload": {
+        "id": "file-9a6a06a6-43b2-4e38-844d-4b028e54d0f5",
+        "userId": "user-1d15586d-8c09-4ea2-affb-7bbf7abcf22d",
+        "originalName": "Screenshot (236).png",
+        "storedFilename": "1791086815898-120376020.png",
+        "folderPath": "/",
+        "size": 634447,
+        "mimeType": "image/png",
+        "version": 1,
+        "versions": [],
+        "textContent": "PNG IHDR 8 C sRGB gAMA a IDATx^ e ! @ A@D # E D@ \"*MP @ }EQ E Dz $ B g yv L i {A 0 A j ` F H | }_ `X$\\' H![4 I DL$ +*d F c R |J I X ; ` *= 44 A E N d x 1\" M ( ; G O Y 7v w - q \"u \" z . & \" . h H w ? M d y P. kEV- L 6 k 1 5( Q DF 6 iY N U G # m i_ ` _ 2 n s^ o rm F & D +j_ Sd b y KqMx U' t? R / o ey V - _ c F % u ^k z Rx a s5 t h4 k Pi z n \\ kK H ~u x 7qG : `ph ]z 5 VX a B ?fCs 5 \" zw @ h t t ?Z 5 # D O(, 4 j 8A` 5b= y t = v 3u jqGr 1^d Dw HdU{@ O?[ D2 \" X ` L , G f T@ q y,d $ g ) V- i_ #3 > 6 4 i a -D ?{Pd J ). 6 %S&Y x : % Z _ A $ N _ 0jX ]@ z Z ; Ha T? a ,Z Y -IYV : nC x H on 3{ v( ez|e M , d{ ; `? y a8 .s W N) # r MH@ v U u ; 5mk N o ut] x + l 5 k P: Z *m , N i R } 0 ~ O eK )% = \" { ; W ]] s/ y L G w _ X L Ji t b EV VV ]i f ]W * O. - 2 UI Wf s m w, M m t. w V N r n/s 5O? L fk c :M = 3 )Rk < U` - O D \\ V@ _ p k]i i ig ` W ] G4 # 7^F4 t JP < l 7 0 y % Z Z o zE:; ? s I2Q : );hD = I c i: [ [ O=)s? =L ~} Z i Q # / c = y # 9 s 9 ) ; : d_ I &u _ ~5 A =o :< sr } K M'} 6 N N /A ; e m, n)sGn! 6 k ) 5 :4 _ 'm QT[ j ? s O ,o ~ ] > G o g q } O<YR C_ p C V W 5 ;B { N & 9 $ r V |z 9n 1r # u e2 h vZ e `h y j s 7 L ;V;2 ! _2^~ ewJ e }3m FU @ { $ u u { ) ^{ ] BJ(7*b 0H - _,K G G B 5M % Ag | z `E ! ) \" m J o A a h ? * | { V O ~ $ J bv _U p\" d*% z] } a v jw { ~t = vwj e' %S\" G d wJ i:/ R rq v ^ 2 K \\-? .$t rX -@u i N < \\' tZ Z} M \\ 'Nt 9 n 3 ; \\ [;+o Z f [ t i^ $ ]H:f^ H } }l L +} y N8 | 9 e o | ! { %Kd 5 * uW$R'7 6 ]=k '~ k/ (uuu 2T J%$ dQc\\ ` | iM e {{ <7?$ ( W[ j f ^X { {? W W'~ o h ? CfKe N W # W hW : ; u ^ ~ [ C ']p \" p _ 2' :TV Za /8 w u O ;o % 157 9 2 eQ; { \\ 4 + uy > / O o nx s <ma _ \\o[ t E & 2:x { g e { k }jp6 ' tZO{ xf 8 G ? J k:hz { n:h 3; Bu~ X Rh: |=' + B c = z \\n V { & 6s + ^} = my 7 ; 9I 1 N; : on 0j (;} } g { i T! / g yW ? > ' <] 0 OK M e 2 y , H %&A K 5 C V } QG e 3 _ _{ W] z Z jp > w ot ZA]( 1 G - v N? = { w K } C; G c P x 9 C o _q y /= j _U g k W3n A o u \\ j ^r o _S~[ v , 1 . Ev - ) 3 4 A gL ., /^d { q! Q^@5 K_ iA +~q N # a o rU } mpf@Z Zm s c 4 _ - ~ 1 u _ ) kP8 _O y bi [ :|^V ] V c +}v h M9 * `( P I c *Y A@ a HZZBi Z Ri3H Vv 76 / g_w }7 v6 G y m { M 7 zbo \\r m} [ ]e 6 u4 h i s5 }& nC sQ ? } j 6 W n- zK ^ UKE\"* w \\ $ ~ w /R u7 ~ v$eTCPv I c r A = 4H ]) l + x , 3 ! ARo W J v v1 _! ^KW} _v ^ t{K 3 J + : L Zl S?p +;P .; 9 B S M hp Kg n / ! S q 0cFw x Uv ! .X` ^ -@ 9 t[[O = W[ j+ = K { Y3 D / 7 dc 3 k Tn z n ; ? ]d 5 g m V J, ) P\\$ t ? Q3 oJ GD w ukZ u } @ 3 j V Z' ]# r s A [ w e {4 ^ : Q l sNJ[ n s } = w Z D} o\" o P &u ^ u g *u & &o: p( l7BN;p ~ 89n G A r 6K m) [ s / Of05s { f- - 9 \\ ~ }. 8U CY9 [(m L r} zy /8 g z]@k L r * g { b V[IKK } @ E/ = z& r ISS f Q _ CP] 6 V[\\) o 5 jXnf ` ] )3 m _ 'w `/ V/ { i p} % } =`[ ;V ^ t l s v e d z^mm Cv * h !d } = 8 W- \\ {}~ ! U6 M Ri +' 7k G d ! n z9d Q w )a O sZ5 : {3e t @q! {-Au m jY R^z E F^ RZ jw b e E w u Ah GW a}> N & t=m Tw j Y 3 e 1( . L v j D\" g 4m w Jw!P r @ a Y9` _ &#G c 5|,R F N . } x X 7h k_ Z u i6 <n {. r g { \\4 \\ :o Rk W 3 B ! TJ` w O A ! U 6 l =h F EV MJKgZ IY q# v ]^_K 0 40{ UW G _ y H &93 AR ^ W_ ^ z< R.z|z [Of 9s ` v Q(/H 6 t * ! Z \\ ^g v [ \\yX w .Y } ? imm ~3e @ gZ ? S+ z q dL $ / B I a y]# - Z { 4 mp zV A m b_= _ g O= y Y> Sm kkb _} / ~ , r ) + ~Y i t ~ y; G~ _ N V Pi(V 3 4o F Qr r K r N w } ?fu sS2 ,;n ( nC U, w M ~ A s bWi V 5 . o -- ~ ;W G ; 'uzv O ` v# 5p1 w K [ / m& ` 8 \\ 3 u < bh ? : > B ~X r g k v r a G ~ ? > x w t } ~o | m& l ` `} D* P(d J[ 3 ] t v ]Q5V j P \"u- _. hX&? c_3i ? 5k [ w ? V B # m zq Vz -?a 7 p |e hKc m <V. 2 ^ A _ v E !K[ 7 w P 7 _ N- @ c' * P ]\" v IR \\BR S L y2p EI k<! C A $, p w Z R Y \"k?rG d 3 = ] - l V\" w t7 G ` tn M ]. ; . e {y/ U V & G / wG Q\" W i B - Ab I z CN L^O p + _ q 4 qGJ 6 !_z G { ,c *c Y ` D F # c HW ; C 9K 2kQ@V i@ i s@Z ! i f#\") \\ V % _ o , TD ) 4 A B F ? r 9 Z $ H b ( JyTZo ^ 7 3 L , F ? FL . b]\"m ! I tG ` Y Pq & 0 . i K !A 5 A P } *4 tG <@ VX 8 s ; t |B \" \" V- I )j ^{ V]-\" vw Jt 5 o ` E , 8 TG Sd \" z 5 Vx X # q Q H) / X t |< %z Kq ` S 2 u? 5 # 0 -5 k m } D w\"j ^[ z i H |i x e2nnT l$2r=w _K p t hPX 3x qo < G \"u \" z . & \" . h H w ? 3 XD 0 N& I , { m CH r ; P= } ` g & 0t X C >OD 0 Py + l H hw a U EFMp' T 7 `+ &w 7 Y p ; 2 O } o H +D: : SX X ^N% # N Y$ vg @ 25 . u t 3 r(0f ; m G 44;]. \"f ; PU H2 2 . m I =z A 1\"McE y . I \" kD )w H }5 D 2 jlWc u9 (3c zv 0 h Wc 5 g 0 h Wc FP u 3 | u < 3 44 S VC m h` I& % LI* t*e $ N; @ ` MK `0$ PP ag DL 6s 5 + LH +& xL : 4 I(D0 & Hw j o 3j[ Ep]c= D S ; j KCS ; Z@ \" LJWG $ Iw C( & B g Qu DB: x / n 1BBa o #a t J0 49V ] t*% d n/ L K - I( `*. TR BXa8H $ H2X/ P ; qD3A a 0 F } hm v/PW_/ -h H cQ Gc @ ) $ h `* N p % n xd CC3M#G 0F U 5%JCc } x)4 D< N . *u 9~5) H n \"# )@_ L` W ;n tkT } 9K%6g $ v m c$2e $ 6 N 2 N G X_ p ( hg ; ( m p uA\" (] h _ ` 7x n ^ D `Db $M $ ! o ! L % x g % ` Qy dB:Z O t w c | 4v. C 8AR EnM FH(T H| b A M \\ R + N3 K*% GH Kx g Xg H] mQ / ii \\A w \\ V v U^ O `m J` i D5 o .v9]> t . 4 n 0**o @@ C + ; Z R\" zT F [o c\" p 7IW xwl` |0w $ )wJnM M c\" } ]]Q z % \\ w ) l ? dR~r ]V t T V nw y K o HG tm ^W {} w > xsDF x m ~ 5U ^ \\n r / Nt m K/ & U Hz ? +/ E d 2~ = =@ iW s x v f 9 7^ U ~0W , H X E + ^ 9 N f [ d 3 ^ I<< ; .\\(W 2immq 2e[ 1 | | ,M o = Cc- V k[d 2n ! y ) oo r e{]m P IG K = _M{m 1 7 y } A i ce O @}x hTn 2 g -' C G U . 5 { O 9o &O= ;u ? X B 94 | ' g\\-/? , p 1JZ a g & 5 [m x o0 | 3;n/G| p m s }WF o w Q ; / I 6Kn: 9 x | 1r w R ?P O >*3_yE 9 k ^{]ZZZ 9 ~^}u n F6 o l Z SWW' `P } a \"o \\ o 3 g \\,?8 ? m *+W p \\ ? ^ ) @@ ) JgF W X\\Rk;$ K i <; 5 [:$ Ot ; v H C3 - < # f ' Oy 9 W ~ | ;g >%[l m 3 kV =Y4 =v [ |\\ ~ = E g|W: a L d > r ! = d 3v Se _ h [ . ^ M d- t [ Q 1e X8 A^v Y 'M '-n2 5 s 1x r Z i *4 ~ !9 wl 78 { K I~ s u T xL J ; SN w _ t SN / x 4/h mA = 0 7 n r ? ]'g 7 c H: 7Q z =\"g =Mf . -t V + >\\` W z4 S Um K t% = f 5E F L 2 '% X L l 3% z`yz { bO y _m} oM= 3|| A ! l K % _ || Om/ \\z # e j h ^FO u ]o o @ [ o '\\W & 1 yV o 6 P > N i ) u W B 8'cYg 6 R sW (, ^r w~W + n ? M 6 Yi }! b $ P R g^ i{ } N r ~ v 1 R Z u l 5- / W W o c O: [ / O $ /~ +wK Dn?vw i wJMx bsN 1 N Y C {/ N & ^ 7? C m 0} / ?x ] G !_ g / Q Hw $ 2 S T _[ z DRF 2z w% Iw f;]f{ Z > | e v m u T^E v [ n ' r m I =w7 Q N Wo :' gv > u / { %; J X 7A N | 9; f ; d = , c ) %Wf !2 \" = w O | - D \\a 5y | T ` sO t v S [W /{N &; f E ^L6 2 7 } t Ws [ Y s r P |=0 \\ ' g y - W v T9 N? 4 o. Z A e [; [ \\{ ^ u C 2 H j g r d iQ\\N } MyA p(, &m, > Y::: r y ^( T*% s c 6 <B U uz5 | * < C U ' ^ Jx Iu $ I K\"S6 g T, c }w lO 9 $_? ;r U W w k) jA m G ` 6 ) ]0 M! M # # \\{ 52q $9 w N Y r S 3 { C; z u; %Gn, , X ` N; I O2 . M =7 b Yf7w @ ; | ; j i d 1 < C d/9 . V v u/ ? x s 7 _ +{n2 _ V*_ + , 9 ? + t[+~ A # u G J |L ] 3 z; $ U; m |),l>| 7 Bc- -j z M 3e |g l o } m ~& { )MM ' _ } l \\ Y# > < s r %? # v Ts )9 I v\\ |]N t} n \\ b> Lb ` A A \\ B Z ;K =*i :8. _ K-^% p 5` 3 Kg l qUIE 6 { m w 2j .h o ~bP }G d -> N m - > P i f [l!w / }${ HSs D b 5 q 3 iw^ O r <O e2 Xn=*s r *G 5 ua 2 T ^ {- Q b s :F] G vt m f e ' S > g I z: } s}t_ s u ; %/>#K6 Kv ~>f ghf k[ Vo; .{ u_x N' . j= t y k\\ 9 >] i s j <p o wJ r } > Y j O n g ,4M ; 5dn3{9s ^ f v z~= < r& v ? } ]n Z s]& O i eI 5m/ w \\ w s w = 8 9 3 C r {_ ]Tk 9 X } MzZ 0 s * 6 Y Sz u! w b S =G < T :O r ? !y cz W $g C D - : 7 4C 9 l \\:;: o A | Sd ]w } {v N O 3F { = Y #G P> o~{ D Q 7 /w / } +$ M n0 :] r v U / 3P - V : \\ Tk t> D> ) i tGT .[I 6a V 3 W Z! M \\} 9 o ?Y f ; * Uk V e o < bN ./ }? :;; i ; W 9TG !hn |> ?(o # ~ l ;d Y Y3 a X 3Df 33 ; i f y ?K6w z y T w | >4M 6x8U M{ >d !} s C 6 r s9 ~f \\ ` kd k u } > := ~6H u f ! J <,S \\ ! ? 5s |9 Y 9~ XG [ q+ C_t 3 h I 8c _ P BQ +r { ]. u L X 2q d E i h vW I X1[ ] vO t bR6>V R : us \\ < JKl |> t E j n Mn = t Cz N K y w d n ] r y s 9 ; %Ge . + 0P ey l4 I \\ . X Hv | | U / . Uz r w u + i6) }.8]: R j^ s I `H 5 i u3n ~ T 9} . n_ d?3 r ' { 4 { e ;/[ f xP l x + u p M r _ ] d c ; }O X ~3 K | <o[ ?{T^ v iI 'G s W>QzG '?% w I } l ig ); P ^ ?d U2a r r 2e U uz` c J | JSs _ m ; } n w { e H' i : ]v u N: n Fy T -&I R N uN$%8v ] $ 6 h ~; = ?B = K k [ot }?^ WKE ' u } <r } > a l O < _ = y t c vu e . w L Q^O /S \\ >9a w M =o g 2Of k -lr \\ y fC_ x4p:# qN: >'h; j a 2 e q <tuV l w )f L !W N4G>u f r g := ]# 2Cf <3 + / f 2cf Y[ k~ Iw d. (3( >Wd goO d < Y { S q{LZt FS 1 # d Q Pg +/ 2 1; \\K nT+o <p D ] Ss <p .y J X* = % + mUZ n Wf^[ dw [ KH | GL W E o' qfO w Z^ hRO@ A<yF^ q? ( @ _ { q A ^ v y < > 9 r zG9 r3 Y P ( w ? v k HCC l E &+ v 6y k W S/T { / Z v G' J i IN Z wv/ S~ _ C L f K1 ) t c - *zV 5 gv {W r =?x w I B_ 3 q^6 Y G N J ' H sYr qS ? o g. 8 x 9 ~& o T > h t <P[m w Ro , 8 R _ p fmOW A v m ~h = |= O? }-'= _ 1b - s ~s vy]O[8 Q s6 V I n v3 % + % h T t b ,[}j; =f } :^- F k #c O VY c p B O~ ! h,& } M R :;d {~ g ^ w xUZ {~ U ~ .\\(' | S _;\\^ B S } -H &M bvs vKm u c [c w| s / l w < [ s / ^ mn m < m { j ^ d = /_ t ?' u9 ^AT $ += h .2E .N: v d ^ / .+ PX -J .X a[ f A Vq \\ L r n N w = ] 2i l %/i O .cM & 7] Hf 4 b T[ N `o 6 <y A b D v S *0 r? Ay = Q @ E Uo 9 Y , ' Z:;]G + e L l+t f _ / ) 0 A Z. 'M GN8 8w c w z VnG u L;}j R |i Nv E ~ F@t y c >F. b Z Y d U >] c V p n{Z 7 m D w e rT 3 Q q o g K L H ) t u W L B r G K. Qm ; [e o N6 A + ( I Q Q. S o g A {:9 G &N ] % %w # O<n n 4M. x M u /s | d M7 z 1 N. q#$ }3 s fz O G 3%4y} n o WlpX t q p z o(? & ? 3| sm w /| _+U gws ; / v \\u~ Z` QG ! ? l = G p> X>x L 7 l /ww t + | [c | N . u~ ym 23nj { o82 y EO > s ? T . 6h] w g8$ j { { V v[ s]7` pq ] .Yb x 5 g \" Yw L6_ y f M 5 rNA p 0 9 n- n k1h ~ ) M{7(d x 4zVrw 4u[ fwI\\ u.B |[ %* ~ o^ Q% j k[ q o ; G 9 ,/ ~9 = gd G d mE u CS* m zN &M ]' & [2 5 S # i^? | @ .~ . w=R } v #7 q < y d |-{G l , U9 X , h z q f ) & / 6 I N 5 + } #e p~ W v t x r b -e = B x u K | W 8PF ---k [oq : o = \" n e 2 ~'K6~ x E c <* g i @E> ?< r jZ 65H y 7% |I D 1 # {N Uf A U_8 0 ?a}y ?WA - A M _: ZY ` d2 q 6 = w 1v # <, / X~ o /3n Q w E < $[Lq b C \\ a _ < `y' y nI J T=n ] C v { W 9 ^ -' k!- - & 5_ 3 R i O =i < ; JRl f `c N w [&~ v w?X | 3 V 6p ~ k e a ~ x? b S } | ir M R g %r w ~ v ; q d e< s S^ 7o > 5 w yR o \\, z D | T Y vN _ { / p|iU0 ju; ;/ X t w = 5 p G1yc8inj U = v m f g Z% I on Ca9 i O 5 H 3 <% . ^ @Ev B } % | k: _ f >l a < t ZaO r e? N `U A U :9 _ \" yo -] T ]2r 9 gWJ} #O p $M W_ ^x f s J ig y 5 V - . s G ^ B [i , A U 8} \\]K[ d s/n7 ^ r 3 k ] 8 \\] `@f } -O 8/`Ph+ orZ ~ k j / / ' b '+ wu ; t 4 ] > A= ^ m x P4 j w ( n {Y L r h | k 4u g o @-Z |; V Ww i [ B~ v _ le 9 \\]/g 3}{ % y =l * !k E3 J j + - U W >p 8B d ' $ v 8 ^u x < 1R ? iy = - b { # <8m; G W: N U 1Rd K md; p # xf - y Y I * 2/s{o , Q A I y6 / |y _ M&m m1 soH 2>s S| |1 | rkk 7 d w ] 5mf 8 HK[{ hK SN l e } v P~ g ! lno J Td $ i 5 JI N . _ M k:$8 Ib ? $^ / \\ F ~q `}D f; f{ FId v? A k. ~ J x XyA q o ;w [o G[ l - u | E $ s U v I. f A8bn R ' zF ~0 {N n ]v d _ O ? \\ 0 N Y[ _ r o= } E Y Wk_70 _7 \\ v % [ &S \\ w Uq 8 L rA G (; u y 6 <? N kz a' W ]c J & _# 2C p 0 ] 1 <Xf 3 , 9 1? N8[ 6Wfj y < <4}w n { l ^ K 32 ^ m w 9 N4 u % 8] { tZ&j ^ .}Hn uu , % > q n! 7 +) h s R 1k[[N {$+ ( Vn lf 6M: N:w :- b q[( j Umf b $/ % t V j o _ 5 2 e@ 4O >u C \\9~l ~ : Z ? ( [t 5 D 6 r r I SO?] < h g y n ~ ~ _ WN N ~ y { l eV7 r u Fj 4 =OC ;9 \"+ >O 9 %W\\.?: a * r - < r 1 u 6 U 7 s r O # _,G r , ,? G Q#EZ 6U Ny n y .}w8FN /- v ] ?c : 8 t}5n| 4 i n ~p y v Z n G?<Gn V n1 50| g \\ ]u j K W z * . ; : Y ^w fi R !K 5 h# HXRKVK $ OwD% % O yI l5 hn8 u v h P E A>1 = m f2v ! h7 E d = 1i ,Y @&m6Y @ z + 6p )< cQ ] :7 p ,Z H ky ~\" })w s\"^\\ 3y5h wzH ~ 1 g #g et \" L ! j M ^ >d b ~ l~ , 2 ui hK 9 e 9 W 4 * = > ~; {f] f g{r Ns \\ ]t 5rH >v L m \\ q t &z c p , ] z r { m~ >wU :\\%2M N mW +r }F& *N I B + g 1 E +}vz ~ \\ _W 6 T k5 k 9 ^ n [ Z u i >x np i d5olp4 Xup - 3 m ,R 4 = v?xl }_$ n W 7} ye1 ;? ( = ? { }Fv e ]z { n> < _ ^ # ]9 j G w m S K/ U F r y L ; ' x um \" o-[ G < _T . c r m + Mt <x 1 ; xP [' v y 5r g 7 P Jy| ]' $ s O Kn9 Q g 3 c ,;F~y 9|}w vr y ]' ^z A.=B 3Q ]r [K ; yM b ? y9 ) 6 tSw t~ : p 3 r % a T~ O S 9 ]$ 9 [ ? 4h O & e / y v T O~J \" W z4 S 3 Xi N`I j B c \" E - $ L S'2e j Q ;$ s A y H T m ;s Ol 1 y y.] C[ Cw = V ? P B[ ` l 7i q] J8A_ ]YP <p ^ w \\ | 0 m) Ki <PE : * 1 ^x c ' f< N8 8 v T { L 3 K + oW f - _q ; _$ n[ j +V | rI${Z kW [n l & : `9 J{ 7 0 zr q ;i r U++ H 5 6 $ p ' F + @* Y 3 k ! % k H 3 < q ! + } k( k8 \\ 0 u x | =l - . 2 ;^eK T b 9 E ` t P ;O r J } %K 'c 5J~ e |F ~ h Q { p i . z o}G j $ ^3]~ E Tn v f |&p \\9 UW 2g W % r { 0 R d 4 j m q[ O0X Y t W ; ]D `T\\g[ o R L r v O & | wW O dG 2 L] 2 W c3m ! u 7 f M , z VtZP> | d < \\T l X j -r en}l[ ; < `H $: K ?m ;w } ]7 h# h j } y _ ?=QZ >(w Y f oV / W 1 ] 7 ` W\\%c q T v \\ bQ +o E 8b`] $ $1 # ` t aL M F]: tN + g \" Ol u `T\\2 6w / 6@ ( | gT y <w YU k E } ' ` We c G |w yC ~p K G = T k w R L ? n #7 Y ; 9m R # 5 =+ n L ; 5 ! P 9 3% 7 n ZI tR ? R ;H `S} v e Q ] F $R_ 0m & J} $Z?Fb -R_/ M X d M Ib \\ ^\" . \" hn n -% '$8 mA F hw D K . B A P p T0l[ & U a C 4 W Q5 d `((u Ew X K Q o @ R k H U *t1 H 2c Dn { ; `TU2 n p$, p S ^\" g ( % o p KB 8 AI % j D \\U m @ U - C 2+j 2 | R ? f !I h h # tWGG g MMt \\# cPuutJ< u PM zihjt P c % uFy / @ # k P . k ` w $ |` O I o # !) H dJR S)35 i\" y 4 +i $ 0A u ` A 0 A j ` F Hw a, v e7 P x 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# [~b 6; S Y8 H8 UN*% 5 T J ?= & LJ, s z B! s h -m2 t z :P~ 4 L G _ C6M TJ qI$ X_z~ H VK i R J K K8 # | \\ ` ) E Rh >P gu z t . ^+ c:d w|~eQ <U, zN 4 +C W +M3]6 ~ K 3 ; j r) ) @ ] t n =L J L 0 o &3([)Z? x gg Ai l J } }{uDZ'4 1d OZ #G R Y+'u JJ 5jTY*pK9. urU j l + \"1[ t K lz~Z s% N VF c= F X F;T ^ Vw G c ^J Sgg z \\ W ~ u* [ \\ @ _ ]'W@ y6 i / W 6 2 t 4 U W 0[ss 3 u}J1 } { ~7 } V v _ @ iEQ V4i P +X e( 4 j% V s 8 c ; MW /m \\t Z z jY f %~ -q ; izk Y+ s V z_ R n] _ W $W9 e \\ g } + L * \\ * H l 6 I%[ T p i 9 V ~ J \\ ( .yj8 C B u h / 4 ]H C \\ _YQN~ # ~ p * @ i _K j @E1 r oY }VY G . kN nz )1 i ~]J C su i u = Z _ = k \\Y z: O A rV+ * k B M Z7hkK | c vCX m ] p rU k B 3f 7 N \\W u)&` =^ b ] ` @ ] d .5 Q :x T B ZU *h | x 5 / kh WZ - s Wvj } n u x5 U yA) kw z/ + * AZ. ] M{~| rX Z c C 0 Qk9 W O |A B | @` R ~ _ T J c k J m 22 9 w h o J |y k \\ _ N J 2- r / k +h {_ ! JY w H \\ t b YmT = !] p - X km +h ` ^ J \\ -$ _ (+6 X. ?r w Z t g4 Bw z D_ z b y ; y ^ \\ %z ) J A A; Nm)U c k Z ip B+ R H J f ] J 6 G ~AD= w ] Z X h k +h s Q g k% ] z t > L T l&o \" C U 5\\ S+ Z Y d U B 2 n \\ ~ W # } |+ * 5?T 7_ e ts nz S > '_/ D- W R > = \\ w% z ~ O VY f n[ 0 W ~ P@ Ay VR~ ZqU R _fW h ~!A #W Z t ~ /kEa9 m( rR u8 b \\r c T u S d cAe 4~ t R H v9 / Q ^. \\ *_ ~~ 2 \\ w | z 4 ^) \\ w B x Szj _% l9 rUTi u n:s r</ ~ Bh r u G[s r Zq . 6 D 0 |A b C * ` 4 < ^ J | < Y: = \\ z( v9 ] C_ k eM G Y 7j C 1 Q+ Um.Z ] 3( o Z \\ r+_ t9 r @ _@T X k ^s W 6{ H JU^ V K _ ~ H U ;t G K G X(w~ % >3 41 * 3 6s ~-f 3 Z r & ? @ qi s~ ' l c c J b+ b+ _ Wa / T, 0 V = | `/ ]YY t \\ [) x ] ?< 0 b F / ~ ? HP@ {s u BW -? UF = ]@ B \"_9 iQ r>_^ r = M \\ `| P S ~! Q A < k:j >S1_ V\"k k bZ T ^ 2 | bhe s v Bi J[ P y / t Jt=M \\ K c m [ 40 w { < /0 C . R L E? ~?^( z _ t t9 G [ = u g_ r {t ? ^ | ` R 0BW,%k : \"Uj 3 0Z 4r I X f < QH V Ul G+M / * kEm9 ]i _ hP V k di e `d>z. z} ^ eu aB 4 MM/ c ;/ /h SYz 2/ ' A~yW b s^ h0 W B ] L } 4 J g _ r V u? W W H B ?u c M O % < `@ +YwB M {Zy Z) 2S Z i # YZ U j v \\* * P = | -0 m _ xi ? P H mO 8 *(u Z x 2~ t x AL=6 ] w\\ y o m% + t \\ * ~ :] UH *| m _~P 5 Vh - @ p 4 ^ o5 q m 1j iZ ? Z M | }k e o b >r ? ~ +ku_ r *5] T Z /ojy r xt{ o i t . b i\\j - = rmK z ^ w } y 9 V ' {K e ~?. ; !0a T CU h X[ n Jc]i h5R V8i S J \\ + Vd v Ub | ) [y 9x xZQ c y F d B6S : c U Up Q F s R * s w z yi PZ c L fz^ V: wn M l | *$ V / M ^ ~ j E - : ~ K K =?z t [ P _ T\"_ * M . 2E Z 4x ! i~- GZ o L 1 I + = i eK L = _ K ( T `= B b = - s D V[ kUz}$h w U 3i V k! * 3 B* r } k%Q \" J[=F . Y} 8 < | ` . } B+Lu | S } : 4 t,4 z G w, C tSz z, t-$ 9d c+ K3 ^> .z P [O 1 n \\ b h> J Ri> / sz 2 '] / v I mk /~ o b >r W 5 U^j K 4O y i + =z z S + * KWM 1 \\ U H R {Z + +z/ w I!4 4 [ s S T :A ^ -p # M!in L V _ bI G YmqSh /gK |+& S - U[ xu T U 5 1 G I+o =/ c L VKC=HR 4 {C | a>z, m- 4 w M! N ZnT R 2 % S }W\\ = D x d 6 V d U j F+ 4 N Zv D I c R oz c )[ k * u @ r= r h z * P : ,W _ !~ P -gu E?o ; J B r~^y ~ Qi _ Dn =% : - q 4 s C q K ' 2 Z wc M - /G 9 r * 4 ( ,Ge VJk ^ R 4 ^ | rV 9 C _ ? z- y 4Oh - e-/ u/ K? k Z }vi^ h ^ w^ V g / ti ^iZ G /-o4 { ~ P 0a vE h \\ Z}T : !I[KiE |]5k T K \\ ~[[ ^&]V+Y r4 v _pY+ bQ+ Ya I {Fc L lz ^ *U A+; u9i ;& ^? y z ^ n Y ' Ej | eQ% m 2 S 2 BiZj g ` > m/ { 4 ; \\e~ Pi W W :;_Z V [ v--- b jI { Wv $}+a p@ ! & 7P- G A ^> ZC x A V > { F j `' O i # <L | F 0 _ u1 L ( ah] G x A aLc _ = 4H `i PM & (@:=t K l ^ h \\ <7 ` | x w a y 1 8 W_u ] t = C 50 0\\ + : H ! C, 4 . _ | o K ,d2 z E / 8\\ p) L b| 0 u. \\ _ B (] br Z T # 5b k ~a TW%bt RL @ (? p # L ] m * x\\ih 5 p _ G x 8[ rf 2 P^ bp C ` _ 0 8 z . > t # 5 p ` \\ $d( ` !& \"8 u ! ` ;0 ` 5 0 P# @ \\ t: o: + ` ] Z 9 @ 5 0 P# @ 5 0 P# @ 5 0 P# @ 5 0 P# @ \\ t: Pn JC j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A j ` F A J J M K ` *; L& s 5 p &LH Z 4 _ | k o/O< ; _ Y c\" o |f P - * A i i k urp 0 . \\J tY 8 J.o W ] = X fF ( [ / _} n I D\\ oi P\"! tJ B8m *2 N . 3E Y> Kx H +fK = U R yG } U N? l QI Y# e v S o^ r y %<f $` z m=Jg 5 'd L cp~ l z: ^ HWT 4 x 7 d <` { _ o# 1 vtW %` L AD z D\"\" I ?f 5 mh t 9G{ f s ? D ) _ [O ^3 ? u ^ R W= t K$ I Tg y 46y \\ Y n c i [ c Y Y tg K < H `C I @$l I M L B ^uRM 9 / u K W &/ Z J C I3 [ N cqF f a $s 7s [pD M # & d6 W 2 0 ; 'U * { 2 su ,gO & = J qs s B # W j x - ^ )s -u + { o s l dZ 6 L i C < # h QS tI S 1s/ & = 9 , 9 D;M 7 l^1 $d i 7e ) 6 + ^ ( S t v p e n N ) t { { 3 y { 8 xk o d Y X \\]5 9 L .7 v A 9T V l e V yC D k+R O 2 f S) | |3 V \" Eu 5 f } ( )S w t\\Ka7H JI} 6I X&+ zB>~ 2z j K}\\+ 8\" ) QI ?h7 ) _K x$$- #cw S6 G$ 4 ,\\/ @ Ny r] }5 ^J I g g g Q < h <) k%: x _ |c 4 m d k CT 0 KcW = J .!1 Ig H vg /K V[I0 A s M? f f q h H$a 0ge [zDD NH}0$ Db1 K m $ a rI @: yG: U 2 | [5 yE R l b t Bf{is\\ uuR?z Ol) d !<i# 7V #GJ Y&n 7 3$Ba } \\ tJ M 4$ q% &m E 7yQ aFB 9 9 ^ Y [ EW & ) | 8] L K8) Z j % bI| P: ' K$ M >K s kg o 6 c4[ F6 T D8( # 2z F 2 # l Kp 8 ! 2 Lz P o n e I 3%l < # b:j S }, ~ W m& r1[ 9 P 0 2 &e \\ zS 5 J%%6a D> 4 ? kY/ . 2 < & D } PJ ~ 5y B ~ < N L %RZ\" \\ )Y k2 =& mm J `%i 5 2K lG }G6yH HGl \" Q& q nh2 ie x f S> )! -wt#z % $ $ K{:n EB S gGr \\ Xd 7_ > ' ucR g 0 nF7k D=P N 5 s #&M5-t q Y@ F y#i Y@o 2z d f J`s3l D6 X #GH A I -+ M 6$ 1 @ G ' S : \\ I F / ` 6-7 {M |,$Mag R |+ q s }M z }u z (g L n ( i # .g T J jnn [ ; _ [ :_ V W V v 4o U VGf ] 4 Z] [ E+fl =3 ! e d / o X \" 6 hm Nim 0C J{[ -m ` k7 & DC l % I : q> < 5 > & O L M i X0 @W $V, o )m > U e A[ Zi h v3n oMT: ; + % Ni 4 F C+ PFl ` s O g 44 4 ~ : : % 6{0 T\\ % rZ3 | 3 Go e j W [ 9 `q A; ; n 3 tJ vHKg2) X -^$- V U i ) F mP6 YO A= +l w vnH t~ A v ;]WOW_u[ s 4 @G >\\$ 4S < | + b #I | J$ q C ? ` n iX 7n^ y\" - M ] l ,\\ @ / ` F 6 y z , X k ? h hJ J`R S&_ Q ^-K_}M:> Pd Z X ZZZ K h 0 X 1y K Ly mk h :;eu,*k O [O l2Y sni im V f ' X< p V _ 4 9? PA W $ s^ lY ,i HR J )S y n C 5 :[ Ws ] K )' 9R a-[ z8 L g s7 ;=A %l 7 wu O~ yO | 3 Y h M9Xg ] cq W' H = # j2r . 0e ' j Kd V| H I7 }@E _,u& hYaV7 n 9l L1 6 a m C%[ i! e -K \\ rO ki V 8 z l wG ) _( U k 8f |\"a k O ,[ A x 0 ~ N i [ f e j ? W j! { : / m H \"F eyP $mo y e Ip *iJ 5l v p- E L ^g h T e V M $f %C ` R F\" l 9 p T 9 ; m J DL +W K s oZ M vU+ b ME x N\" 6 V 'l`> O1 3 c ~ - g t I tB 9 $ CY5k ,z eY v m hL b ( T3x i , A 9_ S n { F2i ; Ni -- r * wH I F G+0 t ~ 0_N 6 l Ws $U^ H t 4 9Fg[ s :F H 9 # ? P\" Ni2 So6 Ai]/f k m ;-b d ` v s k Ri@= 6Gj _ q 0m k 5 `] B 5o W . yW\"s Z Sq oJ _ v3M | ^;38 G bQ \"V 7 e $ 8B I =sC J9~ vp ! y TO% = - [[e >~ - { w Q 3' 0i 4 G 6 v cJm / > p )[& ?) c 4e ]@ 3h^s G WN 9/ | y s} 7 hT H, H 8S ? x m Z X mR H { nv ' ` I' . }1 W 3n ) lK_w @ (- f +&] X[ d % h R ) U < y R '- `x 2X?Cu 4e 3- ~ o[ s ^* U W] S. {q k {; 9 C [` @ | P Wy > P+ c! ($ {[3c } 5 R) 7 SI J +T R w j a ( #a V c 5 t,& +% * %% ^ a 5l ) ]@ . Ly z P[ | \" ] 'l C+ ) O j S 1 5 TY 0 I % &N j.{ 6 K b _/ X<& := I 4 3j[[ } \\Y wedk l i kS b C c c W3xW VA t & 4 1uu2 CY K 5/ * K s [ t f ^ D _Y 5o 1 M z ]# _ L>z y d l F F x } E R ug u O : 1i4 : #dt Y: My O $ n[ k O > 4-l% \\ 0 % u ! I >lO0vp e w 6 g : ~C(\" f N p 7O -m H E 2_PM63 4 R 4 9 ;([\" !i2 y o[ 2 c Bi} s # 5 W < e :n+ # s D$l \\ Ik+v C l ^ e cOK oI 2 MM2 I D v [ ~ z Cw p N 4 <f2C |Q3h z i ^ 6) sM Q : $ nL4% y e / G 5 ) kDL ( ^ T l |B K c f } n t ; [f u r . t 1+ )K G g n^ ~3 g qtp OH ) 5 2 j p _ z >h Zae j W A X W] # ` p n q ~ l h j^ xipD qI K i hR DJ[ j[Gg @J V U !- u",
+        "tags": [
+          "png"
+        ],
+        "createdAt": "2026-10-04T04:06:56.691Z",
+        "updatedAt": "2026-10-04T04:06:56.691Z"
+      },
+      "timestamp": "2026-10-04T04:06:56.700Z"
+    },
+    {
+      "id": 1791086935600,
+      "type": "academic_shared",
+      "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+      "payload": {
+        "userId": "user-522e073f-f128-43b0-96ee-6fc9e1423156",
+        "authorName": "Ram",
+        "title": "xyz",
+        "category": "Natural Language Processing",
+        "abstract": "abc",
+        "content": "lmn",
+        "tags": [
+          "NLP",
+          "Research"
+        ],
+        "id": "paper-9bd5790b-dca2-4dfb-9acf-097b0de0db1e",
+        "upvotes": 1,
+        "upvotedBy": [
+          "user-522e073f-f128-43b0-96ee-6fc9e1423156"
+        ],
+        "createdAt": "2026-10-04T04:08:55.394Z"
+      },
+      "timestamp": "2026-10-04T04:08:55.434Z"
     }
   ]
 }

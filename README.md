@@ -241,6 +241,7 @@ User Microphones -> Web Speech API (mr-IN / hi-IN / en-US)
 │       ├── ai.ts               # AI endpoints (Tutor, Quiz, Resume, Interview, Assistant, etc.)
 │       ├── auth.ts             # User authentication, registration, profiles
 │       ├── files.ts            # File uploads, versioning, folder hierarchies, search
+│       ├── notes.ts            # Notes sharing and community shared notes
 │       └── sync.ts             # Event audit trail & polling synchronization
 └── src/                        # Modern React 19 Frontend
     ├── App.tsx                 # Root application container & tab router
@@ -317,6 +318,15 @@ All backend endpoints are prefixed with `/api` and return standardized JSON resp
 | :--- | :--- | :--- |
 | `GET` | `/api/sync/events` | Poll real-time system events (file uploads, notes, study updates). |
 | `GET` | `/api/sync/stats` | Retrieve aggregate database metrics and storage statistics. |
+
+### 📝 Notes & Sharing (`/api/notes`, `/api/shared-notes`)
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `POST` | `/api/notes/:noteId/share` | Shares a private note with the community. |
+| `DELETE` | `/api/notes/:noteId/share` | Unshares a note from the community. |
+| `GET` | `/api/notes/shared-status` | Returns array of note IDs currently shared. |
+| `GET` | `/api/shared-notes` | Returns all notes shared by all users. |
+| `GET` | `/api/shared-notes/:noteId` | Returns the full content of a shared note. |
 
 ---
 
